@@ -13,3 +13,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"The world is our family"}
