@@ -10,3 +10,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"The world is our family"}
 {"quote":"The world is our family"}
+{"quote":"We must form a union. We must unify"}
