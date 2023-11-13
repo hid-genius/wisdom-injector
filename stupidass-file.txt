@@ -11,3 +11,4 @@
 {"quote":"The world is our family"}
 {"quote":"The world is our family"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
