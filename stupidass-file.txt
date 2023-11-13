@@ -4,3 +4,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"We will change the paradigm"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"The thought police want to suppress freedom of thought"}
