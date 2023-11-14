@@ -43,3 +43,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"People only get jealous when they care."}
 {"quote":"The world is our family"}
+{"quote":"Tweeting is legal and also therapeutic"}
