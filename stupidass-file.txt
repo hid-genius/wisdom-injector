@@ -48,3 +48,4 @@
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
