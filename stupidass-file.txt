@@ -42,3 +42,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"People only get jealous when they care."}
+{"quote":"The world is our family"}
