@@ -59,3 +59,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"All you have to be is yourself"}
