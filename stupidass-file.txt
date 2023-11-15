@@ -66,3 +66,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Only free thinkers"}
 {"quote":"Decentralize"}
+{"quote":"We will change the paradigm"}
