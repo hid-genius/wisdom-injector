@@ -57,3 +57,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"I'm nice at ping pong"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
