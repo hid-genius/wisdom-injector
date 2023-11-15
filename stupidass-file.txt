@@ -64,3 +64,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"I feel calm but energized"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
+{"quote":"Only free thinkers"}
