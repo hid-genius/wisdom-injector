@@ -61,3 +61,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"All you have to be is yourself"}
 {"quote":"Just stop lying about shit. Just stop lying."}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
