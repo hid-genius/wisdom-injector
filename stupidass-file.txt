@@ -56,3 +56,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I'm the new Moses"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
