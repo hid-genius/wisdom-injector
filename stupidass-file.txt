@@ -54,3 +54,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"I'm the new Moses"}
