@@ -87,3 +87,4 @@
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"People only get jealous when they care."}
 {"quote":"We have to evolve"}
+{"quote":"I watch Bladerunner on repeat"}
