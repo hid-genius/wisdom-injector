@@ -86,3 +86,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"People only get jealous when they care."}
+{"quote":"We have to evolve"}
