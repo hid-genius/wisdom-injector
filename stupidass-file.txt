@@ -83,3 +83,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"For me giving up is way harder than trying."}
