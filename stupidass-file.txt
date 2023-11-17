@@ -105,3 +105,4 @@
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Artists are founders"}
+{"quote":"Burn that excel spread sheet"}
