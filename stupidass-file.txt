@@ -114,3 +114,4 @@
 {"quote":"Perhaps I should have been more like water today"}
 {"quote":"We will cure hunger"}
 {"quote":"My memories are from the future"}
+{"quote":"Style is genderless"}
