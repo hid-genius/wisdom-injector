@@ -101,3 +101,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"2024"}
+{"quote":"Burn that excel spread sheet"}
