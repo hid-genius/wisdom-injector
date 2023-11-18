@@ -126,3 +126,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"We will cure hunger"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
