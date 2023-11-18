@@ -135,3 +135,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"I give up drinking every week"}
