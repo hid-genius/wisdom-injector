@@ -136,3 +136,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I give up drinking every week"}
+{"quote":"Distraction is the enemy of vision"}
