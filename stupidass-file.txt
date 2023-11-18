@@ -134,3 +134,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Just stop lying about shit. Just stop lying."}
+{"quote":"For me giving up is way harder than trying."}
