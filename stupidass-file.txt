@@ -138,3 +138,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"I feel calm but energized"}
