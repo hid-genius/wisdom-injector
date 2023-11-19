@@ -163,3 +163,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"Winning is the only option"}
+{"quote":"I feel like me and Taylor might still have sex"}
