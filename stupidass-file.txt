@@ -178,3 +178,4 @@
 {"quote":"Artists are founders"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"We have to evolve"}
+{"quote":"I make awesome decisions in bike stores!!!"}
