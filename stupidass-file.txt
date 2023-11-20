@@ -188,3 +188,4 @@
 {"quote":"Decentralize"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I give up drinking every week"}
+{"quote":"There are people sleeping in parking lots"}
