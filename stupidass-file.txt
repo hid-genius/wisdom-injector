@@ -191,3 +191,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I wish I had a friend like me"}
+{"quote":"I make awesome decisions in bike stores!!!"}
