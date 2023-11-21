@@ -212,3 +212,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
 {"quote":"Speak God's truth to power"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
