@@ -201,3 +201,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Let's be like water"}
+{"quote":"My memories are from the future"}
