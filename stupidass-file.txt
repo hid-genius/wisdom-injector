@@ -217,3 +217,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"Everything you do in life stems from either fear or love"}
