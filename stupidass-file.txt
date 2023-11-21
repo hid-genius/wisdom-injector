@@ -209,3 +209,4 @@
 {"quote":"Buy property"}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I still think I am the greatest."}
