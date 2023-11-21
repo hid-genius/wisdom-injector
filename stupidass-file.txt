@@ -199,3 +199,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"Winning is the only option"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
