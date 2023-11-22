@@ -222,3 +222,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
