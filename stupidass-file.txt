@@ -240,3 +240,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"I'm a creative genius"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
