@@ -225,3 +225,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I still think I am the greatest."}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
