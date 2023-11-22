@@ -228,3 +228,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Manga all day"}
+{"quote":"Only free thinkers"}
