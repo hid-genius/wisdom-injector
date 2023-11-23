@@ -251,3 +251,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"Winning is the only option"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
