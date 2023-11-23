@@ -261,3 +261,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I'm nice at ping pong"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
