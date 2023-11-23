@@ -242,3 +242,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Speak God's truth to power"}
