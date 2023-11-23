@@ -254,3 +254,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Life is the ultimate gift"}
+{"quote":"I wish I had a friend like me"}
