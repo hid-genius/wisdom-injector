@@ -269,3 +269,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Buy property"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"Artists are founders"}
