@@ -273,3 +273,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"Distraction is the enemy of vision"}
