@@ -287,3 +287,4 @@
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"Tweeting is legal and also therapeutic"}
