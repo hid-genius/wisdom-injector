@@ -268,3 +268,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"I feel calm but energized"}
 {"quote":"Buy property"}
+{"quote":"My dad got me a drone for Christmas"}
