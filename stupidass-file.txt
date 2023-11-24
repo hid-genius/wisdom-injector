@@ -282,3 +282,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"I feel calm but energized"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
