@@ -305,3 +305,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"I am running for President of the United States"}
