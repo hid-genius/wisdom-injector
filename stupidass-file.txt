@@ -311,3 +311,4 @@
 {"quote":"Style is genderless"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"We will change the paradigm"}
+{"quote":"The thought police want to suppress freedom of thought"}
