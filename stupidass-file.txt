@@ -310,3 +310,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Style is genderless"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"We will change the paradigm"}
