@@ -330,3 +330,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"Buy property"}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
