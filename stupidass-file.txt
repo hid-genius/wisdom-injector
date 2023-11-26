@@ -323,3 +323,4 @@
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"I am running for President of the United States"}
+{"quote":"My memories are from the future"}
