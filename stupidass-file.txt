@@ -337,3 +337,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Buy property"}
+{"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
