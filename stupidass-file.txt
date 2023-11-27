@@ -359,3 +359,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"We must form a union. We must unify"}
