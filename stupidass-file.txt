@@ -338,3 +338,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Buy property"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
