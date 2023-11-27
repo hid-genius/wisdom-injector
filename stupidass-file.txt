@@ -361,3 +361,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"We will change the paradigm"}
+{"quote":"Tweeting is legal and also therapeutic"}
