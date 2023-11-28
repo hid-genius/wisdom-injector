@@ -362,3 +362,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"We will change the paradigm"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Sometimes you have to get rid of everything"}
