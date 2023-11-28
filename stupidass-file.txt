@@ -383,3 +383,4 @@
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I'm the new Moses"}
+{"quote":"I feel like I'm too busy writing history to read it."}
