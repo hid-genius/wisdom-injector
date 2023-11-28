@@ -368,3 +368,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Speak God's truth to power"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
