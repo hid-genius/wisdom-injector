@@ -364,3 +364,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
+{"quote":"I feel like I'm too busy writing history to read it."}
