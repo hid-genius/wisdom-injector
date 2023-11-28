@@ -372,3 +372,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
