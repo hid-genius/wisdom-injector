@@ -375,3 +375,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"Speak God's truth to power"}
