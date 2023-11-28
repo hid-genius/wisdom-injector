@@ -365,3 +365,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"Everything you do in life stems from either fear or love"}
