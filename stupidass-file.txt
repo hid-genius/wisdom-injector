@@ -396,3 +396,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"Style is genderless"}
+{"quote":"People only get jealous when they care."}
