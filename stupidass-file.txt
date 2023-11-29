@@ -399,3 +399,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"I am running for President of the United States"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"Life is the ultimate gift"}
