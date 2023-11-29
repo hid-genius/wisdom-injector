@@ -390,3 +390,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"I'm a creative genius"}
 {"quote":"I still think I am the greatest."}
+{"quote":"Buy property"}
