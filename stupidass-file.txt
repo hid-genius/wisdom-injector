@@ -408,3 +408,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
