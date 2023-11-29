@@ -400,3 +400,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Life is the ultimate gift"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
