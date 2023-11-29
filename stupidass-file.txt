@@ -397,3 +397,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"Style is genderless"}
 {"quote":"People only get jealous when they care."}
+{"quote":"I am running for President of the United States"}
