@@ -414,3 +414,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I am running for President of the United States"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"I'm nice at ping pong"}
