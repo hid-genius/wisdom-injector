@@ -415,3 +415,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"I feel like I'm too busy writing history to read it."}
