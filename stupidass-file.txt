@@ -411,3 +411,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Empathy is the glue"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"The thought police want to suppress freedom of thought"}
