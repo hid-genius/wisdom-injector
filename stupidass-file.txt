@@ -412,3 +412,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"I am running for President of the United States"}
