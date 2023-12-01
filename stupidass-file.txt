@@ -447,3 +447,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"My memories are from the future"}
