@@ -439,3 +439,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"Trust me ... I won't stop"}
