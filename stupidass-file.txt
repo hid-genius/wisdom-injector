@@ -453,3 +453,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
