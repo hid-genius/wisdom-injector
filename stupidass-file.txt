@@ -437,3 +437,4 @@
 {"quote":"Artists are founders"}
 {"quote":"Only free thinkers"}
 {"quote":"My memories are from the future"}
+{"quote":"We are here to complete the revolution. We are building the future"}
