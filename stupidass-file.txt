@@ -436,3 +436,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Artists are founders"}
 {"quote":"Only free thinkers"}
+{"quote":"My memories are from the future"}
