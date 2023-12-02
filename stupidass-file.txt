@@ -479,3 +479,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"We will heal. We will cure."}
 {"quote":"I feel calm but energized"}
+{"quote":"Manga all day"}
