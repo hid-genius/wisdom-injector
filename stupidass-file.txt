@@ -480,3 +480,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"I feel calm but energized"}
 {"quote":"Manga all day"}
+{"quote":"The world is our office"}
