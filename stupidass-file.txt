@@ -481,3 +481,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Manga all day"}
 {"quote":"The world is our office"}
+{"quote":"I feel like me and Taylor might still have sex"}
