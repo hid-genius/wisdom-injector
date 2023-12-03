@@ -489,3 +489,4 @@
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"Only free thinkers"}
 {"quote":"I'm a creative genius"}
+{"quote":"There's so many lonely emojis man"}
