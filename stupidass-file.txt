@@ -493,3 +493,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
 {"quote":"I still think I am the greatest."}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
