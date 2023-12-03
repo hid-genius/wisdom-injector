@@ -487,3 +487,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
+{"quote":"Only free thinkers"}
