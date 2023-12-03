@@ -503,3 +503,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
