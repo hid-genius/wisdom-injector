@@ -509,3 +509,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"Only free thinkers"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
