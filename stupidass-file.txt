@@ -523,3 +523,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Pulling up in the may bike"}
+{"quote":"The thought police want to suppress freedom of thought"}
