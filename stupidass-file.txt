@@ -518,3 +518,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"I still think I am the greatest."}
 {"quote":"I'm the best"}
+{"quote":"The thought police want to suppress freedom of thought"}
