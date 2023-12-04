@@ -516,3 +516,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"I still think I am the greatest."}
