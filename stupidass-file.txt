@@ -543,3 +543,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"2024"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"The world is our family"}
