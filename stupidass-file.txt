@@ -532,3 +532,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"Sometimes you have to get rid of everything"}
