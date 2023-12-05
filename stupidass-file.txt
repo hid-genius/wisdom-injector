@@ -546,3 +546,4 @@
 {"quote":"The world is our family"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
