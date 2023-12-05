@@ -548,3 +548,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Artists are founders"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
