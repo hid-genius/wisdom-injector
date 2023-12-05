@@ -538,3 +538,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
+{"quote":"Tweeting is legal and also therapeutic"}
