@@ -564,3 +564,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Manga all day"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
+{"quote":"The world is our family"}
