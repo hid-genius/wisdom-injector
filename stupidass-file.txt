@@ -566,3 +566,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"The world is our family"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
