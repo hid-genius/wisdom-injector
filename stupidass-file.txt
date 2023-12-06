@@ -561,3 +561,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"Empathy is the glue"}
