@@ -598,3 +598,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"Artists are founders"}
