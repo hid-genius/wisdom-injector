@@ -580,3 +580,4 @@
 {"quote":"2024"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"Style is genderless"}
