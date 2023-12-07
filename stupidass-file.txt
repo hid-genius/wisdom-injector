@@ -601,3 +601,4 @@
 {"quote":"Artists are founders"}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"I feel like I'm too busy writing history to read it."}
