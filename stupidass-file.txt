@@ -585,3 +585,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
