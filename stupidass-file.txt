@@ -591,3 +591,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Life is the ultimate gift"}
 {"quote":"I'm a creative genius"}
+{"quote":"Manga all day"}
