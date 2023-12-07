@@ -592,3 +592,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"I'm a creative genius"}
 {"quote":"Manga all day"}
+{"quote":"I feel like me and Taylor might still have sex"}
