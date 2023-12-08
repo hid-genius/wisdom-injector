@@ -605,3 +605,4 @@
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"Pulling up in the may bike"}
 {"quote":"Pulling up in the may bike"}
+{"quote":"Distraction is the enemy of vision"}
