@@ -646,3 +646,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Empathy is the glue"}
 {"quote":"Style is genderless"}
+{"quote":"I wish I had a friend like me"}
