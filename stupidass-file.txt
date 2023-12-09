@@ -628,3 +628,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"Sometimes you have to get rid of everything"}
