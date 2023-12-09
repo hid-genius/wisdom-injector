@@ -636,3 +636,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Artists are founders"}
+{"quote":"Today is the best day ever and tomorrow's going to be even better"}
