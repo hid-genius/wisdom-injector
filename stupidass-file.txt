@@ -639,3 +639,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
+{"quote":"Sometimes you have to get rid of everything"}
