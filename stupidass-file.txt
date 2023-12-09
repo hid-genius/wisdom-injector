@@ -645,3 +645,4 @@
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Empathy is the glue"}
+{"quote":"Style is genderless"}
