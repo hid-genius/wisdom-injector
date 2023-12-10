@@ -669,3 +669,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"If I got any cooler I would freeze to death"}
