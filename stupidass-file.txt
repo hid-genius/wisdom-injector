@@ -657,3 +657,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"I feel calm but energized"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
