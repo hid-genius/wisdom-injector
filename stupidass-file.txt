@@ -672,3 +672,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"Sometimes you have to get rid of everything"}
