@@ -670,3 +670,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"If I got any cooler I would freeze to death"}
