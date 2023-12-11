@@ -675,3 +675,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
+{"quote":"I don't expect to be understood at all."}
