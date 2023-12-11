@@ -685,3 +685,4 @@
 {"quote":"I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch"}
 {"quote":"I still think I am the greatest."}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"The world is our office"}
