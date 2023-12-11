@@ -683,3 +683,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch"}
+{"quote":"I still think I am the greatest."}
