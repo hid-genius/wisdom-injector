@@ -686,3 +686,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"The world is our office"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
