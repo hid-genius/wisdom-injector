@@ -680,3 +680,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"We will cure hunger"}
 {"quote":"Only free thinkers"}
+{"quote":"I don't expect to be understood at all."}
