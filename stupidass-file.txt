@@ -695,3 +695,4 @@
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Keep squares out yo circle"}
