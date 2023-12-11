@@ -696,3 +696,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"Keep squares out yo circle"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
