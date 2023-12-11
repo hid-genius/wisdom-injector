@@ -688,3 +688,4 @@
 {"quote":"The world is our office"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"Artists are founders"}
+{"quote":"Distraction is the enemy of vision"}
