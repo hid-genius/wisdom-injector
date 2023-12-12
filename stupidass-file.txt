@@ -703,3 +703,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Decentralize"}
+{"quote":"There's so many lonely emojis man"}
