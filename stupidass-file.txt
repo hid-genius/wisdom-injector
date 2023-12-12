@@ -701,3 +701,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
+{"quote":"My greatest award is what I'm about to do."}
