@@ -709,3 +709,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
