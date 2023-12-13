@@ -725,3 +725,4 @@
 {"quote":"2024"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
