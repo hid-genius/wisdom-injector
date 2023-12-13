@@ -741,3 +741,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Only free thinkers"}
 {"quote":"Pulling up in the may bike"}
+{"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
