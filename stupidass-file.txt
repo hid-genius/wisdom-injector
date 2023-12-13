@@ -727,3 +727,4 @@
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"Distraction is the enemy of vision"}
