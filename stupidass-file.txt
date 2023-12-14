@@ -753,3 +753,4 @@
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"The world is our office"}
