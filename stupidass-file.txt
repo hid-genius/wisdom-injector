@@ -749,3 +749,4 @@
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"My memories are from the future"}
