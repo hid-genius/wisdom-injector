@@ -768,3 +768,4 @@
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"Perhaps I should have been more like water today"}
+{"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
