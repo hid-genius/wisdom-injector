@@ -751,3 +751,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"My memories are from the future"}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
