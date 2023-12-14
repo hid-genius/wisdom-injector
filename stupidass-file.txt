@@ -756,3 +756,4 @@
 {"quote":"The world is our office"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
