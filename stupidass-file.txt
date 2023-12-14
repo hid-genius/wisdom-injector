@@ -761,3 +761,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"The world is our family"}
+{"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
