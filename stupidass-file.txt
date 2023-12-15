@@ -782,3 +782,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"We will heal. We will cure."}
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
+{"quote":"Empathy is the glue"}
