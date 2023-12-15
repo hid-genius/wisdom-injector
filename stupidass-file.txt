@@ -785,3 +785,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Only free thinkers"}
+{"quote":"There's so many lonely emojis man"}
