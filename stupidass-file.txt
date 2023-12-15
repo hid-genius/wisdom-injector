@@ -776,3 +776,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"Style is genderless"}
