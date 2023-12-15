@@ -778,3 +778,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"Style is genderless"}
 {"quote":"I'm the best"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
