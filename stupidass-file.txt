@@ -788,3 +788,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"People only get jealous when they care."}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
