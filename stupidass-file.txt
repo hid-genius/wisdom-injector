@@ -779,3 +779,4 @@
 {"quote":"Style is genderless"}
 {"quote":"I'm the best"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"If I got any cooler I would freeze to death"}
