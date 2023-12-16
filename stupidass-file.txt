@@ -798,3 +798,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"We as a people will heal. We will insure the well being of each other"}
