@@ -795,3 +795,4 @@
 {"quote":"I'm the best"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
