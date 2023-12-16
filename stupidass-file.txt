@@ -812,3 +812,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
