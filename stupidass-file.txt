@@ -808,3 +808,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
