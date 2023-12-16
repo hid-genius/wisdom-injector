@@ -797,3 +797,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Tweeting is legal and also therapeutic"}
