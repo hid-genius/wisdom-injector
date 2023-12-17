@@ -841,3 +841,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"I'm the best"}
+{"quote":"I feel calm but energized"}
