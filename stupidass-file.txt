@@ -844,3 +844,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Decentralize"}
 {"quote":"Style is genderless"}
+{"quote":"Everything you do in life stems from either fear or love"}
