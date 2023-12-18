@@ -847,3 +847,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"2024"}
+{"quote":"I make awesome decisions in bike stores!!!"}
