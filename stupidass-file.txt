@@ -864,3 +864,4 @@
 {"quote":"The world is our family"}
 {"quote":"We will change the paradigm"}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
