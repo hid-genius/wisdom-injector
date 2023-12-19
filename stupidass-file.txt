@@ -867,3 +867,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Buy property"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"Empathy is the glue"}
