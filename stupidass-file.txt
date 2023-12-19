@@ -876,3 +876,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"All the musicians will be free"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
