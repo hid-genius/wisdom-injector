@@ -870,3 +870,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"There's so many lonely emojis man"}
