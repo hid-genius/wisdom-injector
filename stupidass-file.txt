@@ -872,3 +872,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"Winning is the only option"}
