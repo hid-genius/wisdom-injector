@@ -879,3 +879,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"Man... whatever happened to my antique fish tank?"}
