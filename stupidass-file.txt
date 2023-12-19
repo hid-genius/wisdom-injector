@@ -875,3 +875,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"All the musicians will be free"}
