@@ -911,3 +911,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I'm nice at ping pong"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
