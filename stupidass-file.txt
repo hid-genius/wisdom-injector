@@ -910,3 +910,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"I'm nice at ping pong"}
