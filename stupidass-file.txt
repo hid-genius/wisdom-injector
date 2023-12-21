@@ -925,3 +925,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"We will cure hunger"}
 {"quote":"We will cure hunger"}
+{"quote":"Style is genderless"}
