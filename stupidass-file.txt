@@ -937,3 +937,4 @@
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
+{"quote":"2024"}
