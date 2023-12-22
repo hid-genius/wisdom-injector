@@ -943,3 +943,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
