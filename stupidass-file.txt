@@ -947,3 +947,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
+{"quote":"For me giving up is way harder than trying."}
