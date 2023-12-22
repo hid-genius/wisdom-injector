@@ -956,3 +956,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Keep squares out yo circle"}
+{"quote":"Tweeting is legal and also therapeutic"}
