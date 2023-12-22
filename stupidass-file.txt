@@ -939,3 +939,4 @@
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
 {"quote":"2024"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"Style is genderless"}
