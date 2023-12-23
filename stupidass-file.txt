@@ -984,3 +984,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"The world is our family"}
