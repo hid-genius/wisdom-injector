@@ -974,3 +974,4 @@
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Life is the ultimate gift"}
+{"quote":"We are here to complete the revolution. We are building the future"}
