@@ -975,3 +975,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Life is the ultimate gift"}
 {"quote":"We are here to complete the revolution. We are building the future"}
+{"quote":"We will heal. We will cure."}
