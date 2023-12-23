@@ -985,3 +985,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"The world is our family"}
+{"quote":"The thought police want to suppress freedom of thought"}
