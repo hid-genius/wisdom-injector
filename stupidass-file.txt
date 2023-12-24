@@ -999,3 +999,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"Perhaps I should have been more like water today"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
