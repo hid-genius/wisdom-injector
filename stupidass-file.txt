@@ -1001,3 +1001,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"All you have to be is yourself"}
+{"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
