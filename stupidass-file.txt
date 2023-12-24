@@ -987,3 +987,4 @@
 {"quote":"The world is our family"}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"Only free thinkers"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
