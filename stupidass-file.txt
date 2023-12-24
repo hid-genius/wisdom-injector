@@ -989,3 +989,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"Let's be like water"}
