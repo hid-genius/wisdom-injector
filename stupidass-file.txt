@@ -1003,3 +1003,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Only free thinkers"}
+{"quote":"I'm nice at ping pong"}
