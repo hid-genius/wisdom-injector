@@ -1023,3 +1023,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"Empathy is the glue"}
