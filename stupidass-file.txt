@@ -1029,3 +1029,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
