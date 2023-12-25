@@ -1016,3 +1016,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"People only get jealous when they care."}
 {"quote":"I'm a creative genius"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
