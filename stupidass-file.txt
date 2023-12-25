@@ -1014,3 +1014,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"We will heal. We will cure."}
 {"quote":"My memories are from the future"}
+{"quote":"People only get jealous when they care."}
