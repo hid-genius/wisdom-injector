@@ -1018,3 +1018,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
