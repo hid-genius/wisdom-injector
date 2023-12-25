@@ -1011,3 +1011,4 @@
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"My memories are from the future"}
