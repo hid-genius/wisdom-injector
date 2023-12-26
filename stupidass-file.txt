@@ -1053,3 +1053,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Speak God's truth to power"}
+{"quote":"We must form a union. We must unify"}
