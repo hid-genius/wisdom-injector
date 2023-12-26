@@ -1042,3 +1042,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"The world is our office"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"I'm a creative genius"}
