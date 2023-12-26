@@ -1054,3 +1054,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Speak God's truth to power"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
