@@ -1069,3 +1069,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"My memories are from the future"}
+{"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
