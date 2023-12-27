@@ -1074,3 +1074,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Pulling up in the may bike"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"My memories are from the future"}
