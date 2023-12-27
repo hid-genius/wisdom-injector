@@ -1056,3 +1056,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"I'm the best"}
+{"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
