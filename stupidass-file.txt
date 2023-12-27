@@ -1066,3 +1066,4 @@
 {"quote":"Pulling up in the may bike"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I feel calm but energized"}
