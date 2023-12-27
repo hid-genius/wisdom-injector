@@ -1063,3 +1063,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Let's be like water"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"Pulling up in the may bike"}
