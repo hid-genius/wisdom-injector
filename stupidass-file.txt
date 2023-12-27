@@ -1061,3 +1061,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"Let's be like water"}
