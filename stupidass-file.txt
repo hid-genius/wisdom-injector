@@ -1101,3 +1101,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"Only free thinkers"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
