@@ -1085,3 +1085,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"My memories are from the future"}
 {"quote":"I give up drinking every week"}
+{"quote":"Tweeting is legal and also therapeutic"}
