@@ -1082,3 +1082,4 @@
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"Perhaps I should have been more like water today"}
 {"quote":"Only free thinkers"}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
