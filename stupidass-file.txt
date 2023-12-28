@@ -1098,3 +1098,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
