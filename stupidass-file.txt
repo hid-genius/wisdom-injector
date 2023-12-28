@@ -1099,3 +1099,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
+{"quote":"Only free thinkers"}
