@@ -1087,3 +1087,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
