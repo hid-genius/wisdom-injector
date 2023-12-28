@@ -1092,3 +1092,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"I'm a creative genius"}
 {"quote":"We have to evolve"}
+{"quote":"I still think I am the greatest."}
