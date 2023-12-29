@@ -1114,3 +1114,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"Artists are founders"}
