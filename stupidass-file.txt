@@ -1121,3 +1121,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"I love sleep; it's my favorite."}
