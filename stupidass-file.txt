@@ -1119,3 +1119,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"People only get jealous when they care."}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
