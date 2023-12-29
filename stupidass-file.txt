@@ -1106,3 +1106,4 @@
 {"quote":"Buy property"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"Empathy is the glue"}
