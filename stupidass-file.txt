@@ -1131,3 +1131,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
+{"quote":"The media tries to kill our heroes one at a time"}
