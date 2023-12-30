@@ -1147,3 +1147,4 @@
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
 {"quote":"Buy property"}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
