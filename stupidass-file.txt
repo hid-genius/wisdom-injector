@@ -1134,3 +1134,4 @@
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I'm the new Moses"}
 {"quote":"I am running for President of the United States"}
+{"quote":"We will change the paradigm"}
