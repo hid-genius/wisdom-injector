@@ -1143,3 +1143,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"Only free thinkers"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
+{"quote":"I feel like I'm too busy writing history to read it."}
