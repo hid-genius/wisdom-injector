@@ -1150,3 +1150,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"We will cure hunger"}
+{"quote":"One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black"}
