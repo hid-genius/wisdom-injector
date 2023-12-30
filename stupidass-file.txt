@@ -1128,3 +1128,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"I'm the new Moses"}
