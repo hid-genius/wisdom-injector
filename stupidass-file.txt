@@ -1129,3 +1129,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"I'm the new Moses"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
