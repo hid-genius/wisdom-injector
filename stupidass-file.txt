@@ -1140,3 +1140,4 @@
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"I give up drinking every week"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
+{"quote":"I'm a creative genius"}
