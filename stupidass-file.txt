@@ -1159,3 +1159,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"We will cure hunger"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I am one of the most famous people on the planet"}
