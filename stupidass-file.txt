@@ -1162,3 +1162,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"My memories are from the future"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
