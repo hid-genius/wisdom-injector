@@ -1173,3 +1173,4 @@
 {"quote":"We will be recognized"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
