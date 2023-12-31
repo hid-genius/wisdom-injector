@@ -1158,3 +1158,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"We will cure hunger"}
+{"quote":"I don't expect to be understood at all."}
