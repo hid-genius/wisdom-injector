@@ -1161,3 +1161,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"My memories are from the future"}
