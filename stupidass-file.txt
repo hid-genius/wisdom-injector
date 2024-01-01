@@ -1192,3 +1192,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"We have to evolve"}
 {"quote":"Keep squares out yo circle"}
+{"quote":"Distraction is the enemy of vision"}
