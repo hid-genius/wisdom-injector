@@ -1182,3 +1182,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"All you have to be is yourself"}
