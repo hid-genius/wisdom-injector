@@ -1199,3 +1199,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"My memories are from the future"}
+{"quote":"Artists are founders"}
