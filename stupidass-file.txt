@@ -1193,3 +1193,4 @@
 {"quote":"We have to evolve"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
