@@ -1198,3 +1198,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"My memories are from the future"}
