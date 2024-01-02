@@ -1210,3 +1210,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"Artists are founders"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
