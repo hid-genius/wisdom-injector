@@ -1201,3 +1201,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"Artists are founders"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"People only get jealous when they care."}
