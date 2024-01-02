@@ -1212,3 +1212,4 @@
 {"quote":"Artists are founders"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I'm the new Moses"}
+{"quote":"We will be recognized"}
