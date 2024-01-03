@@ -1226,3 +1226,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
+{"quote":"I leave my emojis bart Simpson color"}
