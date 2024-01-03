@@ -1231,3 +1231,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
