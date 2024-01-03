@@ -1242,3 +1242,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"For me giving up is way harder than trying."}
