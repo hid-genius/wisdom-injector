@@ -1265,3 +1265,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Life is the ultimate gift"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I give up drinking every week"}
