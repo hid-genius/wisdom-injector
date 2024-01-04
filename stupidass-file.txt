@@ -1258,3 +1258,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
