@@ -1266,3 +1266,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"I give up drinking every week"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
