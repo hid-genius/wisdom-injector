@@ -1249,3 +1249,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
 {"quote":"We will be recognized"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
