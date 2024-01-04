@@ -1268,3 +1268,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"Decentralize"}
