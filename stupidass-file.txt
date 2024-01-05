@@ -1293,3 +1293,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I'm the new Moses"}
