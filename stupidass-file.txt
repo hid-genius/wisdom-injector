@@ -1283,3 +1283,4 @@
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
 {"quote":"The world is our office"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
