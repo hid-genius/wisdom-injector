@@ -1273,3 +1273,4 @@
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
 {"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
 {"quote":"Only free thinkers"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
