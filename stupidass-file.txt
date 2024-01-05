@@ -1290,3 +1290,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"Winning is the only option"}
