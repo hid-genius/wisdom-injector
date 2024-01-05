@@ -1291,3 +1291,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Winning is the only option"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
