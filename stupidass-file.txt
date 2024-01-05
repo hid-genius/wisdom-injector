@@ -1281,3 +1281,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"The world is our office"}
