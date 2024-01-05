@@ -1276,3 +1276,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Manga all day"}
+{"quote":"Burn that excel spread sheet"}
