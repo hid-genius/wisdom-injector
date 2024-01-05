@@ -1277,3 +1277,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Manga all day"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"Speak God's truth to power"}
