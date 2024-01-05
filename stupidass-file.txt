@@ -1278,3 +1278,4 @@
 {"quote":"Manga all day"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"Speak God's truth to power"}
+{"quote":"I don't expect to be understood at all."}
