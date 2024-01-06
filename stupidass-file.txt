@@ -1317,3 +1317,4 @@
 {"quote":"Artists are founders"}
 {"quote":"I am running for President of the United States"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
