@@ -1298,3 +1298,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I'm the best"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
