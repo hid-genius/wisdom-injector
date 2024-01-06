@@ -1314,3 +1314,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"Artists are founders"}
