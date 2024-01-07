@@ -1342,3 +1342,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"Speak God's truth to power"}
+{"quote":"Everything you do in life stems from either fear or love"}
