@@ -1333,3 +1333,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"Buy property"}
+{"quote":"We have to evolve"}
