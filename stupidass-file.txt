@@ -1335,3 +1335,4 @@
 {"quote":"Buy property"}
 {"quote":"We have to evolve"}
 {"quote":"The world is our family"}
+{"quote":"Culture is the most powerful force in humanity under God"}
