@@ -1320,3 +1320,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
+{"quote":"I'm the best"}
