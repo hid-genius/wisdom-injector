@@ -1327,3 +1327,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
