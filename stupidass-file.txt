@@ -1336,3 +1336,4 @@
 {"quote":"We have to evolve"}
 {"quote":"The world is our family"}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"I'm the best"}
