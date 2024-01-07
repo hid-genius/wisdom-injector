@@ -1339,3 +1339,4 @@
 {"quote":"I'm the best"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"We are here to complete the revolution. We are building the future"}
