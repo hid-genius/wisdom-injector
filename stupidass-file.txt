@@ -1357,3 +1357,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"I still think I am the greatest."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"Manga all day"}
