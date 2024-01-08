@@ -1352,3 +1352,4 @@
 {"quote":"Decentralize"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
