@@ -1375,3 +1375,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"Keep squares out yo circle"}
