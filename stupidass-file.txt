@@ -1391,3 +1391,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"My memories are from the future"}
