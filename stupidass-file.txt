@@ -1386,3 +1386,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
+{"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
