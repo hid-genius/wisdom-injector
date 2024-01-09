@@ -1381,3 +1381,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"Life is the ultimate gift"}
 {"quote":"Winning is the only option"}
+{"quote":"The world is our family"}
