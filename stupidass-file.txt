@@ -1379,3 +1379,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Life is the ultimate gift"}
