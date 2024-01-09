@@ -1370,3 +1370,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"We have to evolve"}
