@@ -1383,3 +1383,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"The world is our family"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"Empathy is the glue"}
