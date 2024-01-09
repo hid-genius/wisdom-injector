@@ -1377,3 +1377,4 @@
 {"quote":"Burn that excel spread sheet"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"I feel calm but energized"}
+{"quote":"Everything you do in life stems from either fear or love"}
