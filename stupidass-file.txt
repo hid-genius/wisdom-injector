@@ -1407,3 +1407,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
