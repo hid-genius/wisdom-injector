@@ -1397,3 +1397,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"I give up drinking every week"}
