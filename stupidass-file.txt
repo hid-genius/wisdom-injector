@@ -1411,3 +1411,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"My memories are from the future"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"Empathy is the glue"}
