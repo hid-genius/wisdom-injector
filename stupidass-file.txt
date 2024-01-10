@@ -1399,3 +1399,4 @@
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I give up drinking every week"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
