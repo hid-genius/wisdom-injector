@@ -1392,3 +1392,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"My memories are from the future"}
+{"quote":"For me giving up is way harder than trying."}
