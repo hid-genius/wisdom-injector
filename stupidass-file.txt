@@ -1409,3 +1409,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"My memories are from the future"}
