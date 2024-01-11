@@ -1433,3 +1433,4 @@
 {"quote":"We will be recognized"}
 {"quote":"We will heal. We will cure."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"Buy property"}
