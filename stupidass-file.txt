@@ -1432,3 +1432,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"We will be recognized"}
 {"quote":"We will heal. We will cure."}
+{"quote":"Man... whatever happened to my antique fish tank?"}
