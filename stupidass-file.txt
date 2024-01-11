@@ -1434,3 +1434,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Buy property"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
