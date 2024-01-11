@@ -1431,3 +1431,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"We will be recognized"}
+{"quote":"We will heal. We will cure."}
