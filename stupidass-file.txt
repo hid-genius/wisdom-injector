@@ -1437,3 +1437,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch"}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
