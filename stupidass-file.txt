@@ -1461,3 +1461,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
