@@ -1457,3 +1457,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"Winning is the only option"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"I still think I am the greatest."}
