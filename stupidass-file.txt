@@ -1456,3 +1456,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I wish I had a friend like me"}
 {"quote":"Winning is the only option"}
+{"quote":"Who made up the term major label in the first place???"}
