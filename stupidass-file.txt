@@ -1454,3 +1454,4 @@
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"I wish I had a friend like me"}
