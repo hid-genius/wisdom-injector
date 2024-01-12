@@ -1460,3 +1460,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"I am running for President of the United States"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"For me giving up is way harder than trying."}
