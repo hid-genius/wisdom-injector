@@ -1458,3 +1458,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"I still think I am the greatest."}
+{"quote":"I am running for President of the United States"}
