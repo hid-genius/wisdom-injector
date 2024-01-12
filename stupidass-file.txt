@@ -1452,3 +1452,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"We have to evolve"}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"My greatest award is what I'm about to do."}
