@@ -1482,3 +1482,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Buy property"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
