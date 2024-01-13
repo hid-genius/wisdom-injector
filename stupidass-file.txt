@@ -1467,3 +1467,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
+{"quote":"My dad got me a drone for Christmas"}
