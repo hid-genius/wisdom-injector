@@ -1468,3 +1468,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
