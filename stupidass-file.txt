@@ -1465,3 +1465,4 @@
 {"quote":"Buy property"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"I watch Bladerunner on repeat"}
