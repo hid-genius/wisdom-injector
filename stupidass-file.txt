@@ -1494,3 +1494,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"I give up drinking every week"}
