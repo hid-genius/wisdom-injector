@@ -1507,3 +1507,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
