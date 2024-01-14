@@ -1497,3 +1497,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
