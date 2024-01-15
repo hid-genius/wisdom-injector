@@ -1528,3 +1528,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"I'm a creative genius"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"Let's be like water"}
