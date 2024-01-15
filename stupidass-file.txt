@@ -1526,3 +1526,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"We will cure hunger"}
+{"quote":"I'm a creative genius"}
