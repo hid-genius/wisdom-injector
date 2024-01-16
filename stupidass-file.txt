@@ -1551,3 +1551,4 @@
 {"quote":"Artists are founders"}
 {"quote":"The world is our family"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"The thought police want to suppress freedom of thought"}
