@@ -1553,3 +1553,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"One day I'm gon' marry a porn star"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
