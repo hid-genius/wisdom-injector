@@ -1549,3 +1549,4 @@
 {"quote":"Burn that excel spread sheet"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Artists are founders"}
+{"quote":"The world is our family"}
