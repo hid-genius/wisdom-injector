@@ -1558,3 +1558,4 @@
 {"quote":"I'm the best"}
 {"quote":"I still think I am the greatest."}
 {"quote":"Speak God's truth to power"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
