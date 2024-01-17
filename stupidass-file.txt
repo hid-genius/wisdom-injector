@@ -1561,3 +1561,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"We will heal. We will cure."}
+{"quote":"There are people sleeping in parking lots"}
