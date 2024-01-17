@@ -1568,3 +1568,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"We will cure hunger"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Speak God's truth to power"}
