@@ -1571,3 +1571,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"Only free thinkers"}
 {"quote":"Decentralize"}
+{"quote":"I watch Bladerunner on repeat"}
