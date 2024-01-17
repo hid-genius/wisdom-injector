@@ -1572,3 +1572,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"Decentralize"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"Culture is the most powerful force in humanity under God"}
