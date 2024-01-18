@@ -1593,3 +1593,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I still think I am the greatest."}
 {"quote":"My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth"}
+{"quote":"2024"}
