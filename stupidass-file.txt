@@ -1588,3 +1588,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"Let's be like water"}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"George Bush doesn't care about black people"}
