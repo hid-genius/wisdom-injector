@@ -1597,3 +1597,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"My memories are from the future"}
