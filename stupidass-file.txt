@@ -1591,3 +1591,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"We will be recognized"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I still think I am the greatest."}
