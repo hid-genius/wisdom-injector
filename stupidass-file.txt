@@ -1616,3 +1616,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Artists are founders"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
