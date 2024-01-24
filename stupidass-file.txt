@@ -1615,3 +1615,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Artists are founders"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
