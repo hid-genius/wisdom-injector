@@ -1602,3 +1602,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
