@@ -1598,3 +1598,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"My memories are from the future"}
+{"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
