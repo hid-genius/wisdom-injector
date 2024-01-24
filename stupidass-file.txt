@@ -1601,3 +1601,4 @@
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"Winning is the only option"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"I am one of the most famous people on the planet"}
