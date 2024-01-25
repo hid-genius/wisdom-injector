@@ -1624,3 +1624,4 @@
 {"quote":"The world is our office"}
 {"quote":"Only free thinkers"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"George Bush doesn't care about black people"}
