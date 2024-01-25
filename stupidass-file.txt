@@ -1640,3 +1640,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"I leave my emojis bart Simpson color"}
