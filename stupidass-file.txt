@@ -1630,3 +1630,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"Sometimes you have to get rid of everything"}
