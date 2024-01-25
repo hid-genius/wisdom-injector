@@ -1637,3 +1637,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"We will be recognized"}
+{"quote":"Style is genderless"}
