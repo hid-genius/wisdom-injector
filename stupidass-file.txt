@@ -1623,3 +1623,4 @@
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"The world is our office"}
 {"quote":"Only free thinkers"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
