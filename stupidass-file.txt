@@ -1625,3 +1625,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
