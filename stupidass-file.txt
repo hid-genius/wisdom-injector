@@ -1636,3 +1636,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"We will be recognized"}
