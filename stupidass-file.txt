@@ -1657,3 +1657,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I am running for President of the United States"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"All you have to be is yourself"}
