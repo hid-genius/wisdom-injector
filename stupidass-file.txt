@@ -1642,3 +1642,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
