@@ -1663,3 +1663,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
+{"quote":"I don't expect to be understood at all."}
