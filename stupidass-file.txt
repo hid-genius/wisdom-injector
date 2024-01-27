@@ -1673,3 +1673,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"I don't expect to be understood at all."}
