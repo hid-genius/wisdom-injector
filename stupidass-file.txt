@@ -1667,3 +1667,4 @@
 {"quote":"I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"Empathy is the glue"}
