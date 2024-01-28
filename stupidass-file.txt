@@ -1695,3 +1695,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
