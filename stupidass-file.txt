@@ -1711,3 +1711,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"The world is our family"}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"The thought police want to suppress freedom of thought"}
