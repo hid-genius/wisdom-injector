@@ -1694,3 +1694,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"Winning is the only option"}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"I don't expect to be understood at all."}
