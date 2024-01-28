@@ -1692,3 +1692,4 @@
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"All the musicians will be free"}
+{"quote":"Winning is the only option"}
