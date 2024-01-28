@@ -1712,3 +1712,4 @@
 {"quote":"The world is our family"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"George Bush doesn't care about black people"}
