@@ -1727,3 +1727,4 @@
 {"quote":"The world is our family"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"Only free thinkers"}
+{"quote":"Burn that excel spread sheet"}
