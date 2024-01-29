@@ -1729,3 +1729,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"Speak God's truth to power"}
