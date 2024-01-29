@@ -1725,3 +1725,4 @@
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"The world is our family"}
+{"quote":"My dad got me a drone for Christmas"}
