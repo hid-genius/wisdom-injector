@@ -1735,3 +1735,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"We will cure hunger"}
