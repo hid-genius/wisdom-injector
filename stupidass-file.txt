@@ -1714,3 +1714,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"We will change the paradigm"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
