@@ -1732,3 +1732,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
