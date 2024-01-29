@@ -1736,3 +1736,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"We will cure hunger"}
+{"quote":"I don't expect to be understood at all."}
