@@ -1728,3 +1728,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"Only free thinkers"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
