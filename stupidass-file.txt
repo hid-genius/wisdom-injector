@@ -1739,3 +1739,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I wish I had a friend like me"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
+{"quote":"Artists are founders"}
