@@ -1757,3 +1757,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"The world is our family"}
+{"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
