@@ -1753,3 +1753,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"Empathy is the glue"}
+{"quote":"For me giving up is way harder than trying."}
