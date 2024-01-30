@@ -1745,3 +1745,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"My memories are from the future"}
 {"quote":"I honestly need all my Royeres to be museum quality... if I see a fake Royere Ima have to Rick James your couch"}
+{"quote":"Burn that excel spread sheet"}
