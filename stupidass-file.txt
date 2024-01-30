@@ -1756,3 +1756,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"The world is our family"}
