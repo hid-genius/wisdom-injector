@@ -1740,3 +1740,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Artists are founders"}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
