@@ -1767,3 +1767,4 @@
 {"quote":"The world is our office"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"If I got any cooler I would freeze to death"}
