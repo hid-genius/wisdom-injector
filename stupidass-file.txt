@@ -1766,3 +1766,4 @@
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"The world is our office"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"Trust me ... I won't stop"}
