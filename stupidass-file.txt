@@ -1778,3 +1778,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"People only get jealous when they care."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"All you have to be is yourself"}
