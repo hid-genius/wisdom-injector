@@ -1762,3 +1762,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"I love sleep; it's my favorite."}
