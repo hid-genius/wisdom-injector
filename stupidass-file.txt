@@ -1776,3 +1776,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
+{"quote":"People only get jealous when they care."}
