@@ -1769,3 +1769,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
