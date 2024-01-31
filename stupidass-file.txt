@@ -1781,3 +1781,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"Empathy is the glue"}
+{"quote":"People only get jealous when they care."}
