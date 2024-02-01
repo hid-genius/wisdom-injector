@@ -1804,3 +1804,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head"}
+{"quote":"Believe in your flyness...conquer your shyness."}
