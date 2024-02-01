@@ -1801,3 +1801,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
