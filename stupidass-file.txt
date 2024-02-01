@@ -1789,3 +1789,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Manga all day"}
 {"quote":"I'm the new Moses"}
+{"quote":"We must form a union. We must unify"}
