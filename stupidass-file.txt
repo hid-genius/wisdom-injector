@@ -1791,3 +1791,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
