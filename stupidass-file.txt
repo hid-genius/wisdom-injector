@@ -1786,3 +1786,4 @@
 {"quote":"I'm the best"}
 {"quote":"I'm a creative genius"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Style is genderless"}
