@@ -1790,3 +1790,4 @@
 {"quote":"Manga all day"}
 {"quote":"I'm the new Moses"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"My dad got me a drone for Christmas"}
