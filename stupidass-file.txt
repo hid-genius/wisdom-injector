@@ -1831,3 +1831,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"Tweeting is legal and also therapeutic"}
