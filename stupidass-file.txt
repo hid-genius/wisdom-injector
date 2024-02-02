@@ -1825,3 +1825,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
