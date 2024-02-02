@@ -1827,3 +1827,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"We as a people will heal. We will insure the well being of each other"}
