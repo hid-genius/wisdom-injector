@@ -1833,3 +1833,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I still think I am the greatest."}
