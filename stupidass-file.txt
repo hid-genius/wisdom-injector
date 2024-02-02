@@ -1810,3 +1810,4 @@
 {"quote":"The world is our family"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"We have to evolve"}
