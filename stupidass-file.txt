@@ -1840,3 +1840,4 @@
 {"quote":"Manga all day"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"My dad got me a drone for Christmas"}
