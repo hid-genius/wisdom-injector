@@ -1845,3 +1845,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"All the musicians will be free"}
+{"quote":"All you have to be is yourself"}
