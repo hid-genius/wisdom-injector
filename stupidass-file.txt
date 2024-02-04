@@ -1871,3 +1871,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"Empathy is the glue"}
