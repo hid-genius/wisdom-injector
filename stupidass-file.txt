@@ -1878,3 +1878,4 @@
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
