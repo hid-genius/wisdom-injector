@@ -1861,3 +1861,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Only free thinkers"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"Style is genderless"}
