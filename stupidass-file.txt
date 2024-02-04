@@ -1864,3 +1864,4 @@
 {"quote":"Style is genderless"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"All you have to be is yourself"}
