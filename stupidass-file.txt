@@ -1862,3 +1862,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"Style is genderless"}
+{"quote":"We must form a union. We must unify"}
