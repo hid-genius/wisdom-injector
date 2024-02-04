@@ -1860,3 +1860,4 @@
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Only free thinkers"}
+{"quote":"Burn that excel spread sheet"}
