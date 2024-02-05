@@ -1884,3 +1884,4 @@
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Speak God's truth to power"}
+{"quote":"We have to evolve"}
