@@ -1888,3 +1888,4 @@
 {"quote":"We have to evolve"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"We are here to complete the revolution. We are building the future"}
+{"quote":"Trust me ... I won't stop"}
