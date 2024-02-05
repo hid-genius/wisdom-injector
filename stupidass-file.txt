@@ -1892,3 +1892,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"Decentralize"}
+{"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
