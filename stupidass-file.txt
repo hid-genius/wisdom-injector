@@ -1925,3 +1925,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
