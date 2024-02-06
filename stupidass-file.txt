@@ -1906,3 +1906,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I still think I am the greatest."}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"I am one of the most famous people on the planet"}
