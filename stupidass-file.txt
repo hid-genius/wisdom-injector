@@ -1912,3 +1912,4 @@
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"Buy property"}
+{"quote":"Sometimes you have to get rid of everything"}
