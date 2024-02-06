@@ -1913,3 +1913,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"Buy property"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"We are here to complete the revolution. We are building the future"}
