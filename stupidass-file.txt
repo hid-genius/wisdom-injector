@@ -1911,3 +1911,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"Buy property"}
