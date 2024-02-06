@@ -1908,3 +1908,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
