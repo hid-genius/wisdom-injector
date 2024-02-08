@@ -1965,3 +1965,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"Speak God's truth to power"}
+{"quote":"Trust me ... I won't stop"}
