@@ -1956,3 +1956,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"We will cure hunger"}
