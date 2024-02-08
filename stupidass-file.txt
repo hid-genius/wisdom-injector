@@ -1962,3 +1962,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Distraction is the enemy of vision"}
