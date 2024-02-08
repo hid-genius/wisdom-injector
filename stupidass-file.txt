@@ -1954,3 +1954,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"My greatest award is what I'm about to do."}
