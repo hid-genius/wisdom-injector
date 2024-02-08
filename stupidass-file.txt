@@ -1945,3 +1945,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"My dad got me a drone for Christmas"}
