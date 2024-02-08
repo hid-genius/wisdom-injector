@@ -1949,3 +1949,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I'm a creative genius"}
+{"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
