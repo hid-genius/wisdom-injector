@@ -1963,3 +1963,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
