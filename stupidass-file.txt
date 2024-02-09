@@ -1971,3 +1971,4 @@
 {"quote":"We will be recognized"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Manga all day"}
+{"quote":"Style is genderless"}
