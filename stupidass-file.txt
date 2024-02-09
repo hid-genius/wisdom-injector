@@ -1985,3 +1985,4 @@
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"I'm the best"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Distraction is the enemy of vision"}
