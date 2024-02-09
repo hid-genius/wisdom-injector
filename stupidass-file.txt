@@ -1974,3 +1974,4 @@
 {"quote":"Style is genderless"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"We have to evolve"}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
