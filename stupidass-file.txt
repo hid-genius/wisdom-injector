@@ -1972,3 +1972,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Manga all day"}
 {"quote":"Style is genderless"}
+{"quote":"I make awesome decisions in bike stores!!!"}
