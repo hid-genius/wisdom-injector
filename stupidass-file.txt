@@ -1986,3 +1986,4 @@
 {"quote":"I'm the best"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"Speak God's truth to power"}
