@@ -2012,3 +2012,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Winning is the only option"}
+{"quote":"I'm nice at ping pong"}
