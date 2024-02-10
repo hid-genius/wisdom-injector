@@ -1993,3 +1993,4 @@
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"Trust me ... I won't stop"}
