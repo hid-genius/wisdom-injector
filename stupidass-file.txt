@@ -1994,3 +1994,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"The media tries to kill our heroes one at a time"}
