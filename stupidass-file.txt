@@ -2013,3 +2013,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Winning is the only option"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
