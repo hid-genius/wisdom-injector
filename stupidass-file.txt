@@ -2004,3 +2004,4 @@
 {"quote":"Artists are founders"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I'm a creative genius"}
+{"quote":"Believe in your flyness...conquer your shyness."}
