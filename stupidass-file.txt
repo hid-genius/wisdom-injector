@@ -2027,3 +2027,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Style is genderless"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"Who made up the term major label in the first place???"}
