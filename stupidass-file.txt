@@ -2018,3 +2018,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"Artists are founders"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"I'm the best"}
