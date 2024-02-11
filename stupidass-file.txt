@@ -2032,3 +2032,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"Let's be like water"}
+{"quote":"I don't expect to be understood at all."}
