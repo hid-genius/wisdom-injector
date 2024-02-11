@@ -2015,3 +2015,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I am running for President of the United States"}
