@@ -2051,3 +2051,4 @@
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
