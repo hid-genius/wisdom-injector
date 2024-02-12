@@ -2057,3 +2057,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Perhaps I should have been more like water today"}
+{"quote":"Fur pillows are hard to actually sleep on"}
