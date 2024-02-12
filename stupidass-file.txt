@@ -2042,3 +2042,4 @@
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"Winning is the only option"}
