@@ -2074,3 +2074,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"I am running for President of the United States"}
 {"quote":"Just stop lying about shit. Just stop lying."}
+{"quote":"George Bush doesn't care about black people"}
