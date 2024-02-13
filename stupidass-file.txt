@@ -2078,3 +2078,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Buy property"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"Culture is the most powerful force in humanity under God"}
