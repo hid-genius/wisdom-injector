@@ -2064,3 +2064,4 @@
 {"quote":"Style is genderless"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth"}
+{"quote":"Only free thinkers"}
