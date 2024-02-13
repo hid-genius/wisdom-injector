@@ -2072,3 +2072,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"We will be recognized"}
 {"quote":"I feel calm but energized"}
+{"quote":"I am running for President of the United States"}
