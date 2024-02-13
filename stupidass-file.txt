@@ -2077,3 +2077,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Buy property"}
+{"quote":"Believe in your flyness...conquer your shyness."}
