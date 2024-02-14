@@ -2085,3 +2085,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Decentralize"}
+{"quote":"I'm a creative genius"}
