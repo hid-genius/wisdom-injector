@@ -2087,3 +2087,4 @@
 {"quote":"Decentralize"}
 {"quote":"I'm a creative genius"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Decentralize"}
