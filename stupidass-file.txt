@@ -2121,3 +2121,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"Artists are founders"}
