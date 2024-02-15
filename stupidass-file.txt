@@ -2104,3 +2104,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"I'm a creative genius"}
