@@ -2113,3 +2113,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"I'm the best"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
+{"quote":"If I got any cooler I would freeze to death"}
