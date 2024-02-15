@@ -2105,3 +2105,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"I'm a creative genius"}
+{"quote":"There's so many lonely emojis man"}
