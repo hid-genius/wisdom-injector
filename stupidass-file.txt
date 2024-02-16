@@ -2139,3 +2139,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"We will heal. We will cure."}
+{"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
