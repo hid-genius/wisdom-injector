@@ -2132,3 +2132,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
 {"quote":"We will change the paradigm"}
+{"quote":"There's so many lonely emojis man"}
