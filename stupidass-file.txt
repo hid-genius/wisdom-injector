@@ -2142,3 +2142,4 @@
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"We must form a union. We must unify"}
