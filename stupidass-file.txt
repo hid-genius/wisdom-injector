@@ -2138,3 +2138,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"I'm the new Moses"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"We will heal. We will cure."}
