@@ -2148,3 +2148,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"We will cure hunger"}
+{"quote":"We as a people will heal. We will insure the well being of each other"}
