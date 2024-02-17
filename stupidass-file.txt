@@ -2154,3 +2154,4 @@
 {"quote":"2024"}
 {"quote":"All you have to be is yourself"}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"For me giving up is way harder than trying."}
