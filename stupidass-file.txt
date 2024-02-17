@@ -2163,3 +2163,4 @@
 {"quote":"Let's be like water"}
 {"quote":"I still think I am the greatest."}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
+{"quote":"I'm a creative genius"}
