@@ -2161,3 +2161,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"Let's be like water"}
+{"quote":"I still think I am the greatest."}
