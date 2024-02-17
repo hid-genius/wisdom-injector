@@ -2153,3 +2153,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"2024"}
 {"quote":"All you have to be is yourself"}
+{"quote":"I love sleep; it's my favorite."}
