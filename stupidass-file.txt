@@ -2184,3 +2184,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"My memories are from the future"}
 {"quote":"People only get jealous when they care."}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
