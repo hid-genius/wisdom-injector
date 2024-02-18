@@ -2173,3 +2173,4 @@
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"Winning is the only option"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"Winning is the only option"}
