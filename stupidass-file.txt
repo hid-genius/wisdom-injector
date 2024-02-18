@@ -2174,3 +2174,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Winning is the only option"}
+{"quote":"The thought police want to suppress freedom of thought"}
