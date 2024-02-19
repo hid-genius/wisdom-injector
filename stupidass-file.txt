@@ -2207,3 +2207,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Buy property"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
