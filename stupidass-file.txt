@@ -2213,3 +2213,4 @@
 {"quote":"The world is our office"}
 {"quote":"Empathy is the glue"}
 {"quote":"People only get jealous when they care."}
+{"quote":"I'm the new Moses"}
