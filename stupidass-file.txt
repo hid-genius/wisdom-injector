@@ -2211,3 +2211,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"The world is our office"}
+{"quote":"Empathy is the glue"}
