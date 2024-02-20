@@ -2236,3 +2236,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"Artists are founders"}
+{"quote":"I wish I had a friend like me"}
