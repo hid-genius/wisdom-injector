@@ -2223,3 +2223,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"I still think I am the greatest."}
 {"quote":"Decentralize"}
+{"quote":"Who made up the term major label in the first place???"}
