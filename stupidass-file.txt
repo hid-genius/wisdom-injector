@@ -2235,3 +2235,4 @@
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
 {"quote":"Life is the ultimate gift"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Artists are founders"}
