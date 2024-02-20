@@ -2240,3 +2240,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"The world is our office"}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
