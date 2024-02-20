@@ -2238,3 +2238,4 @@
 {"quote":"Artists are founders"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
