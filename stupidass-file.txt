@@ -2262,3 +2262,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"Tweeting is legal and also therapeutic"}
