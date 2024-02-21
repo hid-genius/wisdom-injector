@@ -2264,3 +2264,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
