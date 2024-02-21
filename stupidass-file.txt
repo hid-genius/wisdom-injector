@@ -2253,3 +2253,4 @@
 {"quote":"The world is our office"}
 {"quote":"Manga all day"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
+{"quote":"All you have to be is yourself"}
