@@ -2272,3 +2272,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Empathy is the glue"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
