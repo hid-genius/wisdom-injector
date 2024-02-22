@@ -2266,3 +2266,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
