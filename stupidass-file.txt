@@ -2284,3 +2284,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"I'm a creative genius"}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"Burn that excel spread sheet"}
