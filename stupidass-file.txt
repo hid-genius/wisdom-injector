@@ -2278,3 +2278,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
