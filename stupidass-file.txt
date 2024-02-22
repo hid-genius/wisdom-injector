@@ -2281,3 +2281,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"The world is our family"}
 {"quote":"We will heal. We will cure."}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
