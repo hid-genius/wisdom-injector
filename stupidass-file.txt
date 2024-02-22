@@ -2286,3 +2286,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
