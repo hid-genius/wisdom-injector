@@ -2307,3 +2307,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
