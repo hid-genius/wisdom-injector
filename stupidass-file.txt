@@ -2305,3 +2305,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"My greatest award is what I'm about to do."}
