@@ -2311,3 +2311,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I give up drinking every week"}
+{"quote":"We must form a union. We must unify"}
