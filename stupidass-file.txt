@@ -2295,3 +2295,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"All you have to be is yourself"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
