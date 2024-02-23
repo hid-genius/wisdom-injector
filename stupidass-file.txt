@@ -2296,3 +2296,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Empathy is the glue"}
