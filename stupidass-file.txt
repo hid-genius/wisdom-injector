@@ -2327,3 +2327,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Style is genderless"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
