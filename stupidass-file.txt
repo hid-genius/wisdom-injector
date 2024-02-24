@@ -2323,3 +2323,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"Winning is the only option"}
+{"quote":"I'm the best"}
