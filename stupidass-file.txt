@@ -2318,3 +2318,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Let's be like water"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"Believe in your flyness...conquer your shyness."}
