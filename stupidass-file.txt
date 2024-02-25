@@ -2360,3 +2360,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
