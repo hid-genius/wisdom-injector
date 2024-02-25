@@ -2339,3 +2339,4 @@
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"We will heal. We will cure."}
+{"quote":"There are people sleeping in parking lots"}
