@@ -2342,3 +2342,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Only free thinkers"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
