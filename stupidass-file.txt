@@ -2373,3 +2373,4 @@
 {"quote":"Buy property"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I feel like me and Taylor might still have sex"}
