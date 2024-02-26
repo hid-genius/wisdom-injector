@@ -2375,3 +2375,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"I give up drinking every week"}
