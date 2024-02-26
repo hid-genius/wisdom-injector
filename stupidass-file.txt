@@ -2370,3 +2370,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Only free thinkers"}
 {"quote":"I'm the new Moses"}
+{"quote":"Buy property"}
