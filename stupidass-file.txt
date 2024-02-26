@@ -2364,3 +2364,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"I'm a creative genius"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"I feel like I'm too busy writing history to read it."}
