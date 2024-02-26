@@ -2376,3 +2376,4 @@
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"I give up drinking every week"}
+{"quote":"Let's be like water"}
