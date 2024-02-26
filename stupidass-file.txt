@@ -2362,3 +2362,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"I wish I had a friend like me"}
+{"quote":"I'm a creative genius"}
