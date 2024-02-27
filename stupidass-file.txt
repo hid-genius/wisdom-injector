@@ -2398,3 +2398,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"Who made up the term major label in the first place???"}
