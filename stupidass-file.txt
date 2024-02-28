@@ -2411,3 +2411,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
