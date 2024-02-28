@@ -2430,3 +2430,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"All the musicians will be free"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"I'm a creative genius"}
