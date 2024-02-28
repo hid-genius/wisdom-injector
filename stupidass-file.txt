@@ -2422,3 +2422,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
