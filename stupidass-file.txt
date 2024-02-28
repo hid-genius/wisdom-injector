@@ -2416,3 +2416,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Empathy is the glue"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Speak God's truth to power"}
