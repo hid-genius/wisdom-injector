@@ -2442,3 +2442,4 @@
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"Style is genderless"}
 {"quote":"Empathy is the glue"}
+{"quote":"If I got any cooler I would freeze to death"}
