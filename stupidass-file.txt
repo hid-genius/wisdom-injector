@@ -2456,3 +2456,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"All you have to be is yourself"}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
+{"quote":"My greatest award is what I'm about to do."}
