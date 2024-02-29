@@ -2436,3 +2436,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"Decentralize"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
+{"quote":"Style is genderless"}
