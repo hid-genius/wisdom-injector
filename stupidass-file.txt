@@ -2443,3 +2443,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Empathy is the glue"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"My greatest award is what I'm about to do."}
