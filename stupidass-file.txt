@@ -2454,3 +2454,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I am running for President of the United States"}
+{"quote":"All you have to be is yourself"}
