@@ -2478,3 +2478,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"The world is our family"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
+{"quote":"The world is our office"}
