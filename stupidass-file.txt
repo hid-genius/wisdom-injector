@@ -2475,3 +2475,4 @@
 {"quote":"Decentralize"}
 {"quote":"I still think I am the greatest."}
 {"quote":"Decentralize"}
+{"quote":"Distraction is the enemy of vision"}
