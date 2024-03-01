@@ -2467,3 +2467,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Decentralize"}
 {"quote":"2024"}
+{"quote":"Distraction is the enemy of vision"}
