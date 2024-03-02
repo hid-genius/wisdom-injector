@@ -2500,3 +2500,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"}
