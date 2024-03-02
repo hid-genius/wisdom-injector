@@ -2485,3 +2485,4 @@
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"We must form a union. We must unify"}
 {"quote":"Manga all day"}
+{"quote":"I don't expect to be understood at all."}
