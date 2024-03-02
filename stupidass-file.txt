@@ -2499,3 +2499,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I am running for President of the United States"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"My greatest award is what I'm about to do."}
