@@ -2494,3 +2494,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"George Bush doesn't care about black people"}
