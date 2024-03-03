@@ -2518,3 +2518,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"My memories are from the future"}
 {"quote":"The world is our office"}
+{"quote":"For me giving up is way harder than trying."}
