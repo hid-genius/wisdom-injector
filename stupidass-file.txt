@@ -2509,3 +2509,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"Speak God's truth to power"}
+{"quote":"Winning is the only option"}
