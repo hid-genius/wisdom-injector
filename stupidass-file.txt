@@ -2528,3 +2528,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"Trust me ... I won't stop"}
