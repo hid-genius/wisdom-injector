@@ -2523,3 +2523,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Empathy is the glue"}
