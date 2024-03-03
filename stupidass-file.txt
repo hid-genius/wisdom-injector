@@ -2512,3 +2512,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Burn that excel spread sheet"}
