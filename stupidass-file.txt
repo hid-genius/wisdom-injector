@@ -2517,3 +2517,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"My memories are from the future"}
 {"quote":"My memories are from the future"}
+{"quote":"The world is our office"}
