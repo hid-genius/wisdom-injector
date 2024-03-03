@@ -2521,3 +2521,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"I'm a creative genius"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
