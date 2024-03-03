@@ -2525,3 +2525,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Empathy is the glue"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"We will heal. We will cure."}
