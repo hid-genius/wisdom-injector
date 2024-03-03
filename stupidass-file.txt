@@ -2529,3 +2529,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
