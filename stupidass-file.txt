@@ -2513,3 +2513,4 @@
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"People only get jealous when they care."}
