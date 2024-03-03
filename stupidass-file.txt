@@ -2527,3 +2527,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"We will heal. We will cure."}
 {"quote":"There's so many lonely emojis man"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
