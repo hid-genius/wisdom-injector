@@ -2533,3 +2533,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
+{"quote":"For me giving up is way harder than trying."}
