@@ -2540,3 +2540,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Decentralize"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
