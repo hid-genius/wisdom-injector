@@ -2531,3 +2531,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"All you have to be is yourself"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
