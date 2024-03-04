@@ -2543,3 +2543,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"Buy property"}
