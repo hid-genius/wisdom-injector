@@ -2545,3 +2545,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"Buy property"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
