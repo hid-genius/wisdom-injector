@@ -2553,3 +2553,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"We will heal. We will cure."}
+{"quote":"The world is our office"}
