@@ -2539,3 +2539,4 @@
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Decentralize"}
+{"quote":"Burn that excel spread sheet"}
