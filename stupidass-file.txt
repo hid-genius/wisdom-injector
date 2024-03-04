@@ -2551,3 +2551,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"My dad got me a drone for Christmas"}
