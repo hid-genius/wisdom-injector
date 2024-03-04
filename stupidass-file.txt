@@ -2548,3 +2548,4 @@
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"Style is genderless"}
 {"quote":"Only free thinkers"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
