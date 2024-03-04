@@ -2541,3 +2541,4 @@
 {"quote":"Decentralize"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Everything you do in life stems from either fear or love"}
