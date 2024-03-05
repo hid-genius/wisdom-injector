@@ -2555,3 +2555,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"The world is our office"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"Empathy is the glue"}
