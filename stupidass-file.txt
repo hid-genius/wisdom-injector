@@ -2565,3 +2565,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
+{"quote":"Keep squares out yo circle"}
