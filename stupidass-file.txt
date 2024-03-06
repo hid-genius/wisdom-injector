@@ -2598,3 +2598,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Pulling up in the may bike"}
+{"quote":"Sometimes you have to get rid of everything"}
