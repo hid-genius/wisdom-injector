@@ -2599,3 +2599,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Pulling up in the may bike"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"Tweeting is legal and also therapeutic"}
