@@ -2595,3 +2595,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"Empathy is the glue"}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
