@@ -2601,3 +2601,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"2024"}
