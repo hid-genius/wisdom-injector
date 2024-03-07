@@ -2608,3 +2608,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
+{"quote":"The world is our family"}
