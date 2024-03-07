@@ -2625,3 +2625,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
