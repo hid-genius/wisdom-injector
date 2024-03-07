@@ -2614,3 +2614,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I wish I had a friend like me"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
+{"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
