@@ -2611,3 +2611,4 @@
 {"quote":"The world is our family"}
 {"quote":"All you have to be is yourself"}
 {"quote":"2024"}
+{"quote":"Believe in your flyness...conquer your shyness."}
