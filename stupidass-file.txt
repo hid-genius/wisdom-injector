@@ -2637,3 +2637,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Style is genderless"}
 {"quote":"Style is genderless"}
+{"quote":"I leave my emojis bart Simpson color"}
