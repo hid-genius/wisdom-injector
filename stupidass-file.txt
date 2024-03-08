@@ -2626,3 +2626,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"Sometimes you have to get rid of everything"}
