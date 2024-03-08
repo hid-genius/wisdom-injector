@@ -2640,3 +2640,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
+{"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
