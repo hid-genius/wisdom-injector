@@ -2638,3 +2638,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Style is genderless"}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
