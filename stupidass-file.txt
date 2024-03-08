@@ -2646,3 +2646,4 @@
 {"quote":"Buy property"}
 {"quote":"Style is genderless"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
+{"quote":"My memories are from the future"}
