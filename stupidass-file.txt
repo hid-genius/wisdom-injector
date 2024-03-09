@@ -2663,3 +2663,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"I don't expect to be understood at all."}
