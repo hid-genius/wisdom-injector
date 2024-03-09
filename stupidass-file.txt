@@ -2659,3 +2659,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"Sometimes you have to get rid of everything"}
