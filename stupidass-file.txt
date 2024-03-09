@@ -2671,3 +2671,4 @@
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"2024"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
