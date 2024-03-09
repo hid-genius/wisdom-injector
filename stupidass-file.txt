@@ -2665,3 +2665,4 @@
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"My memories are from the future"}
+{"quote":"I am one of the most famous people on the planet"}
