@@ -2675,3 +2675,4 @@
 {"quote":"We will be recognized"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I'm the new Moses"}
+{"quote":"For me giving up is way harder than trying."}
