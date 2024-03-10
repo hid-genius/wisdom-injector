@@ -2677,3 +2677,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"Trust me ... I won't stop"}
