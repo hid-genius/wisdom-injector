@@ -2683,3 +2683,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"Keep squares out yo circle"}
 {"quote":"Artists are founders"}
+{"quote":"Empathy is the glue"}
