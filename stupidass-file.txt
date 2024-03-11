@@ -2719,3 +2719,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"All you have to be is yourself"}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
+{"quote":"Keep squares out yo circle"}
