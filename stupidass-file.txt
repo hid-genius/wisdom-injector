@@ -2701,3 +2701,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
