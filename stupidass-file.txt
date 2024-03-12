@@ -2724,3 +2724,4 @@
 {"quote":"I'm the best"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
