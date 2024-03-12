@@ -2745,3 +2745,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
+{"quote":"We have to evolve"}
