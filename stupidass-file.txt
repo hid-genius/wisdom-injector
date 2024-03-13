@@ -2769,3 +2769,4 @@
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"My memories are from the future"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"The world is our family"}
