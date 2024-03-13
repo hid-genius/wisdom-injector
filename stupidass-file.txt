@@ -2761,3 +2761,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
