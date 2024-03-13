@@ -2750,3 +2750,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Pulling up in the may bike"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"I'd like to meet with Tim Cook. I got some ideas"}
