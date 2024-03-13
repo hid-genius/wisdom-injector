@@ -2760,3 +2760,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"Trust me ... I won't stop"}
