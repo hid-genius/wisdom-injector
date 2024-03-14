@@ -2778,3 +2778,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
