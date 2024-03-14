@@ -2790,3 +2790,4 @@
 {"quote":"We have to evolve"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
+{"quote":"I'm the new Moses"}
