@@ -2793,3 +2793,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
