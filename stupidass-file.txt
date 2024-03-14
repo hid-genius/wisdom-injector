@@ -2771,3 +2771,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"The world is our family"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"Today is the best day ever and tomorrow's going to be even better"}
