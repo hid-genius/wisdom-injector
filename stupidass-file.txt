@@ -2791,3 +2791,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I'm the new Moses"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
