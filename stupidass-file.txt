@@ -2806,3 +2806,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"The world is our office"}
