@@ -2837,3 +2837,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"Culture is the most powerful force in humanity under God"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
