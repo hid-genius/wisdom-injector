@@ -2841,3 +2841,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"I'm the best"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
