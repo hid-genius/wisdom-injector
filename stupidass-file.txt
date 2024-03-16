@@ -2834,3 +2834,4 @@
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"We will heal. We will cure."}
