@@ -2825,3 +2825,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"I'm a creative genius"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
