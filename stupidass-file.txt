@@ -2839,3 +2839,4 @@
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"I'm the best"}
