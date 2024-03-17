@@ -2844,3 +2844,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Empathy is the glue"}
+{"quote":"We will heal. We will cure."}
