@@ -2855,3 +2855,4 @@
 {"quote":"Buy property"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
