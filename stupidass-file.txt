@@ -2842,3 +2842,4 @@
 {"quote":"I'm the best"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
