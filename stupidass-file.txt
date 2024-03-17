@@ -2861,3 +2861,4 @@
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"Today is the best day ever and tomorrow's going to be even better"}
