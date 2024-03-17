@@ -2846,3 +2846,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"We will heal. We will cure."}
 {"quote":"Manga all day"}
+{"quote":"I make awesome decisions in bike stores!!!"}
