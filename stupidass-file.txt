@@ -2869,3 +2869,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
