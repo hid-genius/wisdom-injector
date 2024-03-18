@@ -2872,3 +2872,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I'm a creative genius"}
+{"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
