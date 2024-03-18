@@ -2875,3 +2875,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"I'm a creative genius"}
