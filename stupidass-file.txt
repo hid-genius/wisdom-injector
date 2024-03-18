@@ -2878,3 +2878,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"If I got any cooler I would freeze to death"}
