@@ -2871,3 +2871,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"I'm a creative genius"}
