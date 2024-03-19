@@ -2894,3 +2894,4 @@
 {"quote":"The world is our office"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"We are here to complete the revolution. We are building the future"}
