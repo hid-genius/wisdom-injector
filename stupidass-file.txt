@@ -2936,3 +2936,4 @@
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
+{"quote":"We must form a union. We must unify"}
