@@ -2924,3 +2924,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Buy property"}
 {"quote":"We will change the paradigm"}
+{"quote":"Let's be like water"}
