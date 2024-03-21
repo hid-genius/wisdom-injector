@@ -2941,3 +2941,4 @@
 {"quote":"We have to evolve"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"George Bush doesn't care about black people"}
