@@ -2955,3 +2955,4 @@
 {"quote":"Manga all day"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"All you have to be is yourself"}
+{"quote":"Everything you do in life stems from either fear or love"}
