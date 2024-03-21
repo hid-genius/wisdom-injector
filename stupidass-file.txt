@@ -2947,3 +2947,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"I don't expect to be understood at all."}
