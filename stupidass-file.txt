@@ -2951,3 +2951,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"Let's be like water"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
