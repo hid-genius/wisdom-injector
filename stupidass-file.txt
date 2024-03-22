@@ -2974,3 +2974,4 @@
 {"quote":"Style is genderless"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"Buy property"}
