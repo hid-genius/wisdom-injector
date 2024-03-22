@@ -2985,3 +2985,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"Trust me ... I won't stop"}
