@@ -2970,3 +2970,4 @@
 {"quote":"Manga all day"}
 {"quote":"All the musicians will be free"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"For me giving up is way harder than trying."}
