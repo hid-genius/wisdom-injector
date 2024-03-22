@@ -2963,3 +2963,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"All the musicians will be free"}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"My memories are from the future"}
