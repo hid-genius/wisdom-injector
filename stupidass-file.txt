@@ -2977,3 +2977,4 @@
 {"quote":"Buy property"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
