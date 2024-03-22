@@ -2969,3 +2969,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"Manga all day"}
 {"quote":"All the musicians will be free"}
+{"quote":"We must form a union. We must unify"}
