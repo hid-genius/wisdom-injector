@@ -2992,3 +2992,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
