@@ -2996,3 +2996,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
 {"quote":"Only free thinkers"}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
