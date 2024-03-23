@@ -2994,3 +2994,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
