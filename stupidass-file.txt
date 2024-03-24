@@ -3029,3 +3029,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
+{"quote":"Keep squares out yo circle"}
