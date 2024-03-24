@@ -3020,3 +3020,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"I'm a creative genius"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"The world is our office"}
