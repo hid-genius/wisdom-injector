@@ -3022,3 +3022,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"The world is our office"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"We must form a union. We must unify"}
