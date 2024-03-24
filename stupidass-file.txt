@@ -3032,3 +3032,4 @@
 {"quote":"Keep squares out yo circle"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I watch Bladerunner on repeat"}
