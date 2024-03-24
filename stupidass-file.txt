@@ -3027,3 +3027,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"We will change the paradigm"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
