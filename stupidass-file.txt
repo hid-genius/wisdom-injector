@@ -3040,3 +3040,4 @@
 {"quote":"Manga all day"}
 {"quote":"I feel calm but energized"}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"All you have to be is yourself"}
