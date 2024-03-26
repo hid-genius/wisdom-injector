@@ -3067,3 +3067,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
+{"quote":"The world is our family"}
