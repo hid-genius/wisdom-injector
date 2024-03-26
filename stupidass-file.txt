@@ -3071,3 +3071,4 @@
 {"quote":"Buy property"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"Empathy is the glue"}
