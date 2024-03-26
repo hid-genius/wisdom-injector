@@ -3065,3 +3065,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Let's be like water"}
 {"quote":"I'm a creative genius"}
+{"quote":"There are people sleeping in parking lots"}
