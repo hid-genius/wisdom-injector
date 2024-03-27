@@ -3100,3 +3100,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Style is genderless"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"We will be recognized"}
