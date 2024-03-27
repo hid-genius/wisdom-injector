@@ -3082,3 +3082,4 @@
 {"quote":"Manga all day"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I'm nice at ping pong"}
