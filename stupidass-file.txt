@@ -3092,3 +3092,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I'm the new Moses"}
+{"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
