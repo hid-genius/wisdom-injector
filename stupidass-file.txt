@@ -3090,3 +3090,4 @@
 {"quote":"Decentralize"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"All the musicians will be free"}
+{"quote":"Tweeting is legal and also therapeutic"}
