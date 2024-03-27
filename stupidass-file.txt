@@ -3099,3 +3099,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"Style is genderless"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
