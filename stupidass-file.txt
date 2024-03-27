@@ -3098,3 +3098,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"Style is genderless"}
