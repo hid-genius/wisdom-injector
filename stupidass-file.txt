@@ -3106,3 +3106,4 @@
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"I still think I am the greatest."}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
