@@ -3123,3 +3123,4 @@
 {"quote":"Artists are founders"}
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"I'm the new Moses"}
