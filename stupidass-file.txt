@@ -3125,3 +3125,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I'm the new Moses"}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
+{"quote":"For me giving up is way harder than trying."}
