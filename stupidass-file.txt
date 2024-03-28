@@ -3129,3 +3129,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Let's be like water"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
