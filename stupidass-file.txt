@@ -3144,3 +3144,4 @@
 {"quote":"Pulling up in the may bike"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"I'm a creative genius"}
+{"quote":"Everything you do in life stems from either fear or love"}
