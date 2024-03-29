@@ -3150,3 +3150,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I am running for President of the United States"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
