@@ -3143,3 +3143,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Pulling up in the may bike"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"I'm a creative genius"}
