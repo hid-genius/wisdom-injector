@@ -3149,3 +3149,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I am running for President of the United States"}
