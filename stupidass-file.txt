@@ -3163,3 +3163,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
