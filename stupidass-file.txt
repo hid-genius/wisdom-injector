@@ -3206,3 +3206,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I feel calm but energized"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
