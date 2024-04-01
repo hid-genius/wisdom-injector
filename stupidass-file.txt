@@ -3205,3 +3205,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I feel calm but energized"}
+{"quote":"The media tries to kill our heroes one at a time"}
