@@ -3224,3 +3224,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I don't expect to be understood at all."}
