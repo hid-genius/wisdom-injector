@@ -3231,3 +3231,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"Style is genderless"}
