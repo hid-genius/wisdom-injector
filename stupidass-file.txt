@@ -3237,3 +3237,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"Decentralize"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
