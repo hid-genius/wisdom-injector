@@ -3248,3 +3248,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"I'm nice at ping pong"}
 {"quote":"The world is our family"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
