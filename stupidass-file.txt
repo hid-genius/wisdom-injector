@@ -3239,3 +3239,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
+{"quote":"Tweeting is legal and also therapeutic"}
