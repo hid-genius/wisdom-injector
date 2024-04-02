@@ -3249,3 +3249,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"The world is our family"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"I'm a creative genius"}
