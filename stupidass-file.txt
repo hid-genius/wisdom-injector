@@ -3228,3 +3228,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Everything you do in life stems from either fear or love"}
