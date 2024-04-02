@@ -3227,3 +3227,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I'm nice at ping pong"}
