@@ -3260,3 +3260,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Let's be like water"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"Believe in your flyness...conquer your shyness."}
