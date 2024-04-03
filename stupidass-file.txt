@@ -3262,3 +3262,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
