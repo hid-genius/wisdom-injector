@@ -3265,3 +3265,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"Keep squares out yo circle"}
