@@ -3255,3 +3255,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"Style is genderless"}
