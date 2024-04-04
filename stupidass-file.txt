@@ -3274,3 +3274,4 @@
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"Manga all day"}
 {"quote":"I feel calm but energized"}
+{"quote":"George Bush doesn't care about black people"}
