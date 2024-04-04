@@ -3291,3 +3291,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"My memories are from the future"}
