@@ -3276,3 +3276,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
