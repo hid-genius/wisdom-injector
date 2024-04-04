@@ -3293,3 +3293,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"My memories are from the future"}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
