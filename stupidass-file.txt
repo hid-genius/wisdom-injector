@@ -3289,3 +3289,4 @@
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"Tweeting is legal and also therapeutic"}
