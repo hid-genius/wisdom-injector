@@ -3290,3 +3290,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
