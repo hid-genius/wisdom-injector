@@ -3298,3 +3298,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"All the musicians will be free"}
 {"quote":"We will heal. We will cure."}
+{"quote":"Culture is the most powerful force in humanity under God"}
