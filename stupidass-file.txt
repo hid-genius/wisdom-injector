@@ -3302,3 +3302,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"I'm the new Moses"}
 {"quote":"I'm the new Moses"}
+{"quote":"I wish I had a friend like me"}
