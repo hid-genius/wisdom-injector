@@ -3304,3 +3304,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"All the musicians will be free"}
+{"quote":"For me giving up is way harder than trying."}
