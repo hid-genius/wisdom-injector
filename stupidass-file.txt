@@ -3317,3 +3317,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
 {"quote":"Style is genderless"}
+{"quote":"Only free thinkers"}
