@@ -3308,3 +3308,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"My memories are from the future"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I still think I am the greatest."}
