@@ -3324,3 +3324,4 @@
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"Only free thinkers"}
 {"quote":"I am running for President of the United States"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
