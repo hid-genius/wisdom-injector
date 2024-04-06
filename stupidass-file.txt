@@ -3330,3 +3330,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"I give up drinking every week"}
+{"quote":"I'm the new Moses"}
