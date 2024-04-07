@@ -3344,3 +3344,4 @@
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Style is genderless"}
+{"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
