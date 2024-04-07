@@ -3348,3 +3348,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"Only free thinkers"}
