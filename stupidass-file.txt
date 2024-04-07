@@ -3339,3 +3339,4 @@
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"We are here to complete the revolution. We are building the future"}
