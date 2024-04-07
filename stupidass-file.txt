@@ -3350,3 +3350,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Only free thinkers"}
 {"quote":"All you have to be is yourself"}
+{"quote":"Just stop lying about shit. Just stop lying."}
