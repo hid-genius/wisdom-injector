@@ -3337,3 +3337,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
