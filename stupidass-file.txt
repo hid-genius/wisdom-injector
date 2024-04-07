@@ -3351,3 +3351,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"All you have to be is yourself"}
 {"quote":"Just stop lying about shit. Just stop lying."}
+{"quote":"Let's be like water"}
