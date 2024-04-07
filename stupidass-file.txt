@@ -3341,3 +3341,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"My greatest award is what I'm about to do."}
