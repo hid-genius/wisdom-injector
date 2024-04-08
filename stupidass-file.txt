@@ -3369,3 +3369,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"All the musicians will be free"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"My dad got me a drone for Christmas"}
