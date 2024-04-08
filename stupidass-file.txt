@@ -3375,3 +3375,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"Buy property"}
