@@ -3372,3 +3372,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Distraction is the enemy of vision"}
