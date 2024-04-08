@@ -3377,3 +3377,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Buy property"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"The world is our family"}
