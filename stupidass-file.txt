@@ -3398,3 +3398,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"My memories are from the future"}
+{"quote":"The thought police want to suppress freedom of thought"}
