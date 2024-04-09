@@ -3396,3 +3396,4 @@
 {"quote":"Keep squares out yo circle"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"I don't expect to be understood at all."}
