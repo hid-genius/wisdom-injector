@@ -3391,3 +3391,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"Let's be like water"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
