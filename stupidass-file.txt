@@ -3382,3 +3382,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"Winning is the only option"}
+{"quote":"Burn that excel spread sheet"}
