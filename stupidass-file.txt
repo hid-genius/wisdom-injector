@@ -3393,3 +3393,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"Keep squares out yo circle"}
