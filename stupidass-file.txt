@@ -3411,3 +3411,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I'm nice at ping pong"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
