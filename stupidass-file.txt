@@ -3405,3 +3405,4 @@
 {"quote":"I'm the best"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"I don't expect to be understood at all."}
