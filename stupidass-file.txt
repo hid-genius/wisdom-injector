@@ -3420,3 +3420,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"I still think I am the greatest."}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"If I got any cooler I would freeze to death"}
