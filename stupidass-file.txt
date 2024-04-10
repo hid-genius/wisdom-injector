@@ -3419,3 +3419,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"I still think I am the greatest."}
+{"quote":"Distraction is the enemy of vision"}
