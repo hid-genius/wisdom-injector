@@ -3421,3 +3421,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
