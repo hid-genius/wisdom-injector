@@ -3413,3 +3413,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
