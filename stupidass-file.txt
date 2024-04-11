@@ -3429,3 +3429,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"We are here to complete the revolution. We are building the future"}
