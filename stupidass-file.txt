@@ -3443,3 +3443,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"We are here to complete the revolution. We are building the future"}
+{"quote":"Trust me ... I won't stop"}
