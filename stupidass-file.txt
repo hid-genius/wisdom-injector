@@ -3427,3 +3427,4 @@
 {"quote":"I'm the best"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"My greatest award is what I'm about to do."}
