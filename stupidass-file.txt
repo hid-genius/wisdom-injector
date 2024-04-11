@@ -3445,3 +3445,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"I'm nice at ping pong"}
