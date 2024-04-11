@@ -3446,3 +3446,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Manga all day"}
