@@ -3438,3 +3438,4 @@
 {"quote":"I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
+{"quote":"Distraction is the enemy of vision"}
