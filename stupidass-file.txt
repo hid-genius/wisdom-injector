@@ -3444,3 +3444,4 @@
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"Tweeting is legal and also therapeutic"}
