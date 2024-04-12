@@ -3465,3 +3465,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head"}
+{"quote":"I give up drinking every week"}
