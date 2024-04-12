@@ -3474,3 +3474,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"We will heal. We will cure."}
+{"quote":"Winning is the only option"}
