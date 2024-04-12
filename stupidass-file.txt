@@ -3459,3 +3459,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"Let's be like water"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
