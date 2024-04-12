@@ -3468,3 +3468,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"All you have to be is yourself"}
 {"quote":"All the musicians will be free"}
+{"quote":"The media tries to kill our heroes one at a time"}
