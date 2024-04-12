@@ -3470,3 +3470,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"I feel like me and Taylor might still have sex"}
