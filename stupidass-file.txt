@@ -3496,3 +3496,4 @@
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"We have to evolve"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
+{"quote":"Distraction is the enemy of vision"}
