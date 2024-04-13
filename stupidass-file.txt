@@ -3491,3 +3491,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"We will heal. We will cure."}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
