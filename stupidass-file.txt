@@ -3498,3 +3498,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Artists are founders"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
