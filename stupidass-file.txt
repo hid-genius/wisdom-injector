@@ -3478,3 +3478,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
+{"quote":"Keep squares out yo circle"}
