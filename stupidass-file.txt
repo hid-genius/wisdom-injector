@@ -3489,3 +3489,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"All you have to be is yourself"}
+{"quote":"We will heal. We will cure."}
