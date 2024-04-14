@@ -3509,3 +3509,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Manga all day"}
 {"quote":"We will heal. We will cure."}
+{"quote":"Decentralize"}
