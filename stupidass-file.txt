@@ -3508,3 +3508,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Manga all day"}
+{"quote":"We will heal. We will cure."}
