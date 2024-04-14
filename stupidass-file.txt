@@ -3507,3 +3507,4 @@
 {"quote":"We have to evolve"}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Manga all day"}
