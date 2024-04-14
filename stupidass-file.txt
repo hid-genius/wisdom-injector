@@ -3510,3 +3510,4 @@
 {"quote":"Manga all day"}
 {"quote":"We will heal. We will cure."}
 {"quote":"Decentralize"}
+{"quote":"We are here to complete the revolution. We are building the future"}
