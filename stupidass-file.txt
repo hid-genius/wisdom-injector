@@ -3518,3 +3518,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"We have to evolve"}
+{"quote":"All you have to be is yourself"}
