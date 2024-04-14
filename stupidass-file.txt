@@ -3519,3 +3519,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"We have to evolve"}
 {"quote":"All you have to be is yourself"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
