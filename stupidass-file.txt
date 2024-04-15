@@ -3530,3 +3530,4 @@
 {"quote":"We will be recognized"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"My dad got me a drone for Christmas"}
