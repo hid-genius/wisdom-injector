@@ -3543,3 +3543,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
