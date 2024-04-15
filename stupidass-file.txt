@@ -3528,3 +3528,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We will be recognized"}
+{"quote":"Trust me ... I won't stop"}
