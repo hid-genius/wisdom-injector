@@ -3544,3 +3544,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"The thought police want to suppress freedom of thought"}
