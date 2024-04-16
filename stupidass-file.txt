@@ -3565,3 +3565,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Empathy is the glue"}
 {"quote":"Empathy is the glue"}
+{"quote":"The media tries to kill our heroes one at a time"}
