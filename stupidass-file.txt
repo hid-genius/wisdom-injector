@@ -3566,3 +3566,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Empathy is the glue"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
