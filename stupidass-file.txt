@@ -3581,3 +3581,4 @@
 {"quote":"I'm the best"}
 {"quote":"All you have to be is yourself"}
 {"quote":"Pulling up in the may bike"}
+{"quote":"There are people sleeping in parking lots"}
