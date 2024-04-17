@@ -3580,3 +3580,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"I'm the best"}
 {"quote":"All you have to be is yourself"}
+{"quote":"Pulling up in the may bike"}
