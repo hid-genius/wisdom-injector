@@ -3582,3 +3582,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Pulling up in the may bike"}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"I am running for President of the United States"}
