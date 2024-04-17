@@ -3591,3 +3591,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"I still think I am the greatest."}
