@@ -3588,3 +3588,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Speak God's truth to power"}
