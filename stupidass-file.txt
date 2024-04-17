@@ -3578,3 +3578,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"I'm the best"}
