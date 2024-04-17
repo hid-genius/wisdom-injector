@@ -3586,3 +3586,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"If I got any cooler I would freeze to death"}
