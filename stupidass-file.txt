@@ -3583,3 +3583,4 @@
 {"quote":"Pulling up in the may bike"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"I am running for President of the United States"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
