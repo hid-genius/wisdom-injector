@@ -3579,3 +3579,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"I'm the best"}
+{"quote":"All you have to be is yourself"}
