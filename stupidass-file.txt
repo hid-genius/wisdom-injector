@@ -3606,3 +3606,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
