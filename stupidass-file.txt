@@ -3600,3 +3600,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"Speak God's truth to power"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Manga all day"}
