@@ -3614,3 +3614,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"We will be recognized"}
