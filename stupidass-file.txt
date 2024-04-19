@@ -3632,3 +3632,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I'm a creative genius"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
