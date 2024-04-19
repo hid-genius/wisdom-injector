@@ -3629,3 +3629,4 @@
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I am running for President of the United States"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"Empathy is the glue"}
