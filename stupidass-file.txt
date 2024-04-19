@@ -3631,3 +3631,4 @@
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"Empathy is the glue"}
 {"quote":"Just stop lying about shit. Just stop lying."}
+{"quote":"I'm a creative genius"}
