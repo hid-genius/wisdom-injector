@@ -3636,3 +3636,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"Burn that excel spread sheet"}
