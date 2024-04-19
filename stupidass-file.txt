@@ -3638,3 +3638,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"We have to evolve"}
+{"quote":"Believe in your flyness...conquer your shyness."}
