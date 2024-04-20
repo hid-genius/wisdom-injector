@@ -3659,3 +3659,4 @@
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Sometimes you have to get rid of everything"}
