@@ -3654,3 +3654,4 @@
 {"quote":"Style is genderless"}
 {"quote":"I'm nice at ping pong"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
