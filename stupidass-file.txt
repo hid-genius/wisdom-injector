@@ -3651,3 +3651,4 @@
 {"quote":"Pulling up in the may bike"}
 {"quote":"People only get jealous when they care."}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"Style is genderless"}
