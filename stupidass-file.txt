@@ -3653,3 +3653,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Style is genderless"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
