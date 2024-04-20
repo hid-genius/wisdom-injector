@@ -3646,3 +3646,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
