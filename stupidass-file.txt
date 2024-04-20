@@ -3662,3 +3662,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
