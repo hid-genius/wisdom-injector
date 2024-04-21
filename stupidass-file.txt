@@ -3687,3 +3687,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
