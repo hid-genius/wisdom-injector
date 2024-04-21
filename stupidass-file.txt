@@ -3679,3 +3679,4 @@
 {"quote":"The world is our office"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"We will be recognized"}
+{"quote":"Buy property"}
