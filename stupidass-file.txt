@@ -3667,3 +3667,4 @@
 {"quote":"Let's be like water"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I'd like to meet with Tim Cook. I got some ideas"}
