@@ -3681,3 +3681,4 @@
 {"quote":"We will be recognized"}
 {"quote":"Buy property"}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"Winning is the only option"}
