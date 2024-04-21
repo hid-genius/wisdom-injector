@@ -3678,3 +3678,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"The world is our office"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"We will be recognized"}
