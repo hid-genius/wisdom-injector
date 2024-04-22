@@ -3700,3 +3700,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I still think I am the greatest."}
 {"quote":"We will change the paradigm"}
+{"quote":"There's so many lonely emojis man"}
