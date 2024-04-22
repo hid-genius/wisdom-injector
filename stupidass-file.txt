@@ -3708,3 +3708,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"Let's be like water"}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
