@@ -3699,3 +3699,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"I still think I am the greatest."}
+{"quote":"We will change the paradigm"}
