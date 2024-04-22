@@ -3698,3 +3698,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"I still think I am the greatest."}
