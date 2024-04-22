@@ -3693,3 +3693,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"I wish I had a friend like me"}
