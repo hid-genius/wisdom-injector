@@ -3758,3 +3758,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"I am running for President of the United States"}
