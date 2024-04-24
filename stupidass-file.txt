@@ -3753,3 +3753,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"Only free thinkers"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"Distraction is the enemy of vision"}
