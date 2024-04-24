@@ -3740,3 +3740,4 @@
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"We will cure hunger"}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
