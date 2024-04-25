@@ -3767,3 +3767,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"The world needs more Joy... this idea is super fresh"}
