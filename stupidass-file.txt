@@ -3785,3 +3785,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"I'm the new Moses"}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
+{"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
