@@ -3768,3 +3768,4 @@
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"We as a people will heal. We will insure the well being of each other"}
