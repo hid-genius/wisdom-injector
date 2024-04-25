@@ -3772,3 +3772,4 @@
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"Pulling up in the may bike"}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
+{"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
