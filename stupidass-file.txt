@@ -3808,3 +3808,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"We will heal. We will cure."}
+{"quote":"If I got any cooler I would freeze to death"}
