@@ -3792,3 +3792,4 @@
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"We have to evolve"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"I'm nice at ping pong"}
