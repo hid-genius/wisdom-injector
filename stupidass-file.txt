@@ -3830,3 +3830,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
