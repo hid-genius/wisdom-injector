@@ -3815,3 +3815,4 @@
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"I'm nice at ping pong"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
