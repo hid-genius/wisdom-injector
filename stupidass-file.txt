@@ -3854,3 +3854,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"The world is our family"}
 {"quote":"We are here to complete the revolution. We are building the future"}
+{"quote":"We are here to complete the revolution. We are building the future"}
