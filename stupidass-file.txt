@@ -3850,3 +3850,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
