@@ -3848,3 +3848,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"I'm a creative genius"}
+{"quote":"My greatest award is what I'm about to do."}
