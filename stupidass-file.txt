@@ -3853,3 +3853,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"The world is our family"}
+{"quote":"We are here to complete the revolution. We are building the future"}
