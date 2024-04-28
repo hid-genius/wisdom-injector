@@ -3856,3 +3856,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"Only free thinkers"}
+{"quote":"We will be recognized"}
