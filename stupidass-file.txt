@@ -3839,3 +3839,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"The world is our family"}
 {"quote":"Life is the ultimate gift"}
+{"quote":"People only get jealous when they care."}
