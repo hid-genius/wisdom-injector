@@ -3858,3 +3858,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"We will be recognized"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
+{"quote":"I feel like I'm too busy writing history to read it."}
