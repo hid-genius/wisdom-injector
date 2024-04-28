@@ -3841,3 +3841,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"People only get jealous when they care."}
 {"quote":"Winning is the only option"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
