@@ -3870,3 +3870,4 @@
 {"quote":"We will be recognized"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"Buy property"}
