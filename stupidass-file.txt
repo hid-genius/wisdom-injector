@@ -3873,3 +3873,4 @@
 {"quote":"Buy property"}
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
