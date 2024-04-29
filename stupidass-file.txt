@@ -3859,3 +3859,4 @@
 {"quote":"We will be recognized"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"Everything you do in life stems from either fear or love"}
