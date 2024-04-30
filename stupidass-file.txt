@@ -3905,3 +3905,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"We must form a union. We must unify"}
+{"quote":"All you have to be is yourself"}
