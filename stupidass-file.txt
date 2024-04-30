@@ -3902,3 +3902,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
+{"quote":"All you have to be is yourself"}
