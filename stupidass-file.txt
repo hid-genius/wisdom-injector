@@ -3890,3 +3890,4 @@
 {"quote":"I'm the best"}
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
+{"quote":"Who made up the term major label in the first place???"}
