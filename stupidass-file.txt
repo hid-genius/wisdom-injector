@@ -3928,3 +3928,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"There are people sleeping in parking lots"}
