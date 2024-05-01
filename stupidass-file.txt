@@ -3911,3 +3911,4 @@
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"I am running for President of the United States"}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"My dad got me a drone for Christmas"}
