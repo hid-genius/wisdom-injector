@@ -3910,3 +3910,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"I am running for President of the United States"}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
