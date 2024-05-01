@@ -3927,3 +3927,4 @@
 {"quote":"There's so many lonely emojis man"}
 {"quote":"Speak God's truth to power"}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"I leave my emojis bart Simpson color"}
