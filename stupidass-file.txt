@@ -3929,3 +3929,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
