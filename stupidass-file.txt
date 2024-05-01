@@ -3921,3 +3921,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I feel calm but energized"}
 {"quote":"I give up drinking every week"}
+{"quote":"My greatest award is what I'm about to do."}
