@@ -3907,3 +3907,4 @@
 {"quote":"We must form a union. We must unify"}
 {"quote":"All you have to be is yourself"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
