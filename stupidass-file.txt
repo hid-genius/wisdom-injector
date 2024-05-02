@@ -3934,3 +3934,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
