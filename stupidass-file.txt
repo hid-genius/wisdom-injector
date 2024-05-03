@@ -3962,3 +3962,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I feel calm but energized"}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
+{"quote":"I don't expect to be understood at all."}
