@@ -3967,3 +3967,4 @@
 {"quote":"Speak God's truth to power"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
