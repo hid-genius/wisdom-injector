@@ -3952,3 +3952,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"The world is our family"}
 {"quote":"I make awesome decisions in bike stores!!!"}
+{"quote":"Just stop lying about shit. Just stop lying."}
