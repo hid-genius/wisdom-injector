@@ -3965,3 +3965,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"Speak God's truth to power"}
 {"quote":"Speak God's truth to power"}
+{"quote":"Burn that excel spread sheet"}
