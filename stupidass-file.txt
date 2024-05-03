@@ -3954,3 +3954,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"Speak God's truth to power"}
