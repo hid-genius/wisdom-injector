@@ -3989,3 +3989,4 @@
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"The world is our family"}
+{"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
