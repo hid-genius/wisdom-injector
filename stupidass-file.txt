@@ -3993,3 +3993,4 @@
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"Believe in your flyness...conquer your shyness."}
+{"quote":"There's so many lonely emojis man"}
