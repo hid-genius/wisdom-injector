@@ -4020,3 +4020,4 @@
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
