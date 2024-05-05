@@ -4006,3 +4006,4 @@
 {"quote":"I'm the best"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"Empathy is the glue"}
