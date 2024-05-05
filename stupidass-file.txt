@@ -4008,3 +4008,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Empathy is the glue"}
 {"quote":"All you have to be is yourself"}
+{"quote":"There's so many lonely emojis man"}
