@@ -4030,3 +4030,4 @@
 {"quote":"The world is our office"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"For me giving up is way harder than trying."}
