@@ -4029,3 +4029,4 @@
 {"quote":"Artists are founders"}
 {"quote":"The world is our office"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
