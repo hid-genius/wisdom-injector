@@ -4032,3 +4032,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"My dad got me a drone for Christmas"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
