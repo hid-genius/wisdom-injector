@@ -4059,3 +4059,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"We will heal. We will cure."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
