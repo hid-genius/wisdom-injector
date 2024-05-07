@@ -4058,3 +4058,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"We will heal. We will cure."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
