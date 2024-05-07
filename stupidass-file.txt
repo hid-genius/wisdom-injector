@@ -4060,3 +4060,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"All you have to be is yourself"}
