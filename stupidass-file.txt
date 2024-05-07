@@ -4070,3 +4070,4 @@
 {"quote":"2024"}
 {"quote":"I'm a creative genius"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"I love sleep; it's my favorite."}
