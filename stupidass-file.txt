@@ -4057,3 +4057,4 @@
 {"quote":"Keep squares out yo circle"}
 {"quote":"My memories are from the future"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
+{"quote":"We will heal. We will cure."}
