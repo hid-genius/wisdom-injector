@@ -4072,3 +4072,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Keep squares out yo circle"}
+{"quote":"Distraction is the enemy of vision"}
