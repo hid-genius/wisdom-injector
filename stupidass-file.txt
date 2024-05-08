@@ -4080,3 +4080,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"We will heal. We will cure."}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"We're going to move the entire music industry into the 21st Century"}
