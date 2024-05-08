@@ -4093,3 +4093,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"There are people sleeping in parking lots"}
+{"quote":"Life is the ultimate gift"}
