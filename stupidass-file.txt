@@ -4078,3 +4078,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I wish I had a friend like me"}
 {"quote":"Trust me ... I won't stop"}
+{"quote":"We will heal. We will cure."}
