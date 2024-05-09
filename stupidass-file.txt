@@ -4111,3 +4111,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
+{"quote":"The world is our office"}
