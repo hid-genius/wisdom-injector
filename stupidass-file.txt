@@ -4120,3 +4120,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
