@@ -4135,3 +4135,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"People only get jealous when they care."}
+{"quote":"Trust me ... I won't stop"}
