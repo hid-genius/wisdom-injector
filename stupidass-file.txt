@@ -4129,3 +4129,4 @@
 {"quote":"I still think I am the greatest."}
 {"quote":"Speak God's truth to power"}
 {"quote":"I'm the best"}
+{"quote":"My dad got me a drone for Christmas"}
