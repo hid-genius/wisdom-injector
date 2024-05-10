@@ -4131,3 +4131,4 @@
 {"quote":"I'm the best"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"The world is our family"}
+{"quote":"Distraction is the enemy of vision"}
