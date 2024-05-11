@@ -4156,3 +4156,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I leave my emojis bart Simpson color"}
+{"quote":"Believe in your flyness...conquer your shyness."}
