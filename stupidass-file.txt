@@ -4153,3 +4153,4 @@
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"Keep squares out yo circle"}
+{"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
