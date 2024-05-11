@@ -4158,3 +4158,4 @@
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
+{"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
