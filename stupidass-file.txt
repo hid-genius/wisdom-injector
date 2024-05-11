@@ -4148,3 +4148,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"The world is our office"}
+{"quote":"I leave my emojis bart Simpson color"}
