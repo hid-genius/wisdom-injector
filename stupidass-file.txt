@@ -4181,3 +4181,4 @@
 {"quote":"The world is our office"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
+{"quote":"I watch Bladerunner on repeat"}
