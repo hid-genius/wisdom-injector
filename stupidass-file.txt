@@ -4186,3 +4186,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"Artists are founders"}
