@@ -4187,3 +4187,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Artists are founders"}
+{"quote":"Everything you do in life stems from either fear or love"}
