@@ -4169,3 +4169,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Trust me ... I won't stop"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"I leave my emojis bart Simpson color"}
