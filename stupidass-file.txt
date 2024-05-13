@@ -4202,3 +4202,4 @@
 {"quote":"The world is our family"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I feel calm but energized"}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
