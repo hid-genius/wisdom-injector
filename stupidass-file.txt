@@ -4207,3 +4207,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"Let's be like water"}
+{"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
