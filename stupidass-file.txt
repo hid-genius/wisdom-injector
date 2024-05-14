@@ -4226,3 +4226,4 @@
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I am running for President of the United States"}
 {"quote":"I'm a creative genius"}
+{"quote":"All the musicians will be free"}
