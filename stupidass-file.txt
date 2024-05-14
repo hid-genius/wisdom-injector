@@ -4235,3 +4235,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
+{"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
