@@ -4220,3 +4220,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"We have to evolve"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
+{"quote":"Distraction is the enemy of vision"}
