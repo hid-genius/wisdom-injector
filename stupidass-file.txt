@@ -4223,3 +4223,4 @@
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"All the musicians will be free"}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
