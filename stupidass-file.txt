@@ -4222,3 +4222,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"All the musicians will be free"}
