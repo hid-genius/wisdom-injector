@@ -4260,3 +4260,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I'm nice at ping pong"}
+{"quote":"All you have to be is yourself"}
