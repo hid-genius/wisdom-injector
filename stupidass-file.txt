@@ -4256,3 +4256,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"People only get jealous when they care."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"Keep squares out yo circle"}
