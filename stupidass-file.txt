@@ -4241,3 +4241,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"I feel like I'm too busy writing history to read it."}
