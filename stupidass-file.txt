@@ -4254,3 +4254,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I'm the new Moses"}
 {"quote":"All you have to be is yourself"}
+{"quote":"People only get jealous when they care."}
