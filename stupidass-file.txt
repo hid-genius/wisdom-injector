@@ -4253,3 +4253,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"I'm the new Moses"}
+{"quote":"All you have to be is yourself"}
