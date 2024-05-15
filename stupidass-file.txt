@@ -4252,3 +4252,4 @@
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"I'm the new Moses"}
