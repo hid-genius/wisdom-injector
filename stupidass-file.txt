@@ -4246,3 +4246,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"I'm the new Moses"}
