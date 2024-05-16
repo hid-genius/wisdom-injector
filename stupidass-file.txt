@@ -4261,3 +4261,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I'm nice at ping pong"}
 {"quote":"All you have to be is yourself"}
+{"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
