@@ -4270,3 +4270,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I feel calm but energized"}
+{"quote":"Speak God's truth to power"}
