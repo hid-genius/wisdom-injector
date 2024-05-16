@@ -4281,3 +4281,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"Decentralize"}
