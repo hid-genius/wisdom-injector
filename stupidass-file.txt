@@ -4277,3 +4277,4 @@
 {"quote":"Style is genderless"}
 {"quote":"We will be recognized"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"Only free thinkers"}
