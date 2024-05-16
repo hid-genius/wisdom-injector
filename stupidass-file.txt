@@ -4278,3 +4278,4 @@
 {"quote":"We will be recognized"}
 {"quote":"My greatest award is what I'm about to do."}
 {"quote":"Only free thinkers"}
+{"quote":"Empathy is the glue"}
