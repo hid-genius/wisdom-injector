@@ -4286,3 +4286,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"We will cure hunger"}
 {"quote":"I'm the best"}
+{"quote":"I am one of the most famous people on the planet"}
