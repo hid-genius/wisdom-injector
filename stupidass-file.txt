@@ -4288,3 +4288,4 @@
 {"quote":"I'm the best"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
