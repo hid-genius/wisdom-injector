@@ -4287,3 +4287,4 @@
 {"quote":"We will cure hunger"}
 {"quote":"I'm the best"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
