@@ -4292,3 +4292,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We will change the paradigm"}
 {"quote":"I give up drinking every week"}
+{"quote":"Man... whatever happened to my antique fish tank?"}
