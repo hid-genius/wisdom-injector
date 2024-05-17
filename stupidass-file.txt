@@ -4302,3 +4302,4 @@
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
+{"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
