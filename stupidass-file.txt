@@ -4317,3 +4317,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"Manga all day"}
 {"quote":"All you have to be is yourself"}
+{"quote":"Burn that excel spread sheet"}
