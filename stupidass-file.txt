@@ -4315,3 +4315,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"I give up drinking every week"}
+{"quote":"Manga all day"}
