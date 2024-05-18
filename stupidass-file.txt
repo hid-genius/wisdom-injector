@@ -4318,3 +4318,4 @@
 {"quote":"Manga all day"}
 {"quote":"All you have to be is yourself"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
