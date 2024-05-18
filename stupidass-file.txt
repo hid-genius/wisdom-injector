@@ -4323,3 +4323,4 @@
 {"quote":"The world is our family"}
 {"quote":"The world is our family"}
 {"quote":"We will cure hunger"}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
