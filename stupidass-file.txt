@@ -4312,3 +4312,4 @@
 {"quote":"2024"}
 {"quote":"We will cure hunger"}
 {"quote":"I am one of the most famous people on the planet"}
+{"quote":"Winning is the only option"}
