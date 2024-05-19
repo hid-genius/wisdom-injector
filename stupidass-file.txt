@@ -4351,3 +4351,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Decentralize"}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"I wish I had a friend like me"}
