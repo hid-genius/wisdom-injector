@@ -4358,3 +4358,4 @@
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"I am running for President of the United States"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"Tweeting is legal and also therapeutic"}
