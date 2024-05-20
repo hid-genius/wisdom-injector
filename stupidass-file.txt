@@ -4355,3 +4355,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
