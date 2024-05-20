@@ -4356,3 +4356,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"I am running for President of the United States"}
