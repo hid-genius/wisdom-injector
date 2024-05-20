@@ -4366,3 +4366,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"Decentralize"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
