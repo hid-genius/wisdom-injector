@@ -4377,3 +4377,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"Artists are founders"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"Tweeting is legal and also therapeutic"}
