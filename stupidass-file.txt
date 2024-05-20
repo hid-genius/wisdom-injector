@@ -4359,3 +4359,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"I give up drinking every week"}
