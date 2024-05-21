@@ -4390,3 +4390,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"Style is genderless"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
