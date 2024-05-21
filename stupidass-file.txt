@@ -4379,3 +4379,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"Tweeting is legal and also therapeutic"}
 {"quote":"All the musicians will be free"}
+{"quote":"Empathy is the glue"}
