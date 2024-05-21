@@ -4401,3 +4401,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"I'm a creative genius"}
+{"quote":"Tweeting is legal and also therapeutic"}
