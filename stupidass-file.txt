@@ -4396,3 +4396,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"We will change the paradigm"}
 {"quote":"Winning is the only option"}
+{"quote":"I'd like to meet with Tim Cook. I got some ideas"}
