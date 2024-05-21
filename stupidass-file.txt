@@ -4386,3 +4386,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Artists are founders"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Life is the ultimate gift"}
