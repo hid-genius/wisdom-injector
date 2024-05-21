@@ -4392,3 +4392,4 @@
 {"quote":"Style is genderless"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"One day I'm gon' marry a porn star"}
+{"quote":"Burn that excel spread sheet"}
