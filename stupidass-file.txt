@@ -4399,3 +4399,4 @@
 {"quote":"I'd like to meet with Tim Cook. I got some ideas"}
 {"quote":"Winning is the only option"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
+{"quote":"I leave my emojis bart Simpson color"}
