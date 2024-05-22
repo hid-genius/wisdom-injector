@@ -4425,3 +4425,4 @@
 {"quote":"I feel like me and Taylor might still have sex"}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
+{"quote":"I watch Bladerunner on repeat"}
