@@ -4444,3 +4444,4 @@
 {"quote":"Buy property"}
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Only free thinkers"}
+{"quote":"Burn that excel spread sheet"}
