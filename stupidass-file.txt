@@ -4436,3 +4436,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"We have to evolve"}
+{"quote":"Decentralize"}
