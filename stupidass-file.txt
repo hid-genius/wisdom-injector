@@ -4445,3 +4445,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"Only free thinkers"}
 {"quote":"Burn that excel spread sheet"}
+{"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
