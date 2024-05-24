@@ -4451,3 +4451,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"Let's be like water"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"Life is the ultimate gift"}
