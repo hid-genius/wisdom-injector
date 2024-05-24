@@ -4464,3 +4464,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"Let's be like water"}
+{"quote":"I'd like to meet with Tim Cook. I got some ideas"}
