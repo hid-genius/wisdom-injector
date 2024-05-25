@@ -4476,3 +4476,4 @@
 {"quote":"The world is our family"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
