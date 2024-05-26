@@ -4504,3 +4504,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"I am running for President of the United States"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
+{"quote":"Culture is the most powerful force in humanity under God"}
