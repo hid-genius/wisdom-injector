@@ -4502,3 +4502,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"Life is the ultimate gift"}
+{"quote":"I am running for President of the United States"}
