@@ -4514,3 +4514,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"I feel calm but energized"}
+{"quote":"I am one of the most famous people on the planet"}
