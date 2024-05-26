@@ -4499,3 +4499,4 @@
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
