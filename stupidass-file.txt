@@ -4531,3 +4531,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"We will be recognized"}
 {"quote":"Empathy is the glue"}
+{"quote":"Artists are founders"}
