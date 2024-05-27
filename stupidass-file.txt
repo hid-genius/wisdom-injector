@@ -4533,3 +4533,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Artists are founders"}
 {"quote":"We will be recognized"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
