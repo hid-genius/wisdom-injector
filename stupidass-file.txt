@@ -4542,3 +4542,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Decentralize"}
+{"quote":"I leave my emojis bart Simpson color"}
