@@ -4556,3 +4556,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"The world is our office"}
 {"quote":"We've gotten comfortable with not having what we deserve"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
