@@ -4563,3 +4563,4 @@
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
