@@ -4548,3 +4548,4 @@
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"We have to evolve"}
+{"quote":"I don't expect to be understood at all."}
