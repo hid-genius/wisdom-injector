@@ -4559,3 +4559,4 @@
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"Style is genderless"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
