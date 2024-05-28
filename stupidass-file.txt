@@ -4550,3 +4550,4 @@
 {"quote":"We have to evolve"}
 {"quote":"I don't expect to be understood at all."}
 {"quote":"2024"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
