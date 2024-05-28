@@ -4562,3 +4562,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
