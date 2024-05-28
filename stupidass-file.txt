@@ -4567,3 +4567,4 @@
 {"quote":"We used to diss Michael Jackson the media made us call him crazy ... then they killed him"}
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
