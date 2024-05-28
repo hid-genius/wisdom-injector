@@ -4554,3 +4554,4 @@
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"The world is our office"}
