@@ -4574,3 +4574,4 @@
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"I feel calm but energized"}
+{"quote":"My dad got me a drone for Christmas"}
