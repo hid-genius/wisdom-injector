@@ -4592,3 +4592,4 @@
 {"quote":"Perhaps I should have been more like water today"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
+{"quote":"Style is genderless"}
