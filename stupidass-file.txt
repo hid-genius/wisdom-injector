@@ -4616,3 +4616,4 @@
 {"quote":"Man... whatever happened to my antique fish tank?"}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"Who made up the term major label in the first place???"}
