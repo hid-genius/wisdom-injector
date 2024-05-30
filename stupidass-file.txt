@@ -4595,3 +4595,4 @@
 {"quote":"Style is genderless"}
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Pulling up in the may bike"}
+{"quote":"Decentralize"}
