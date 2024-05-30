@@ -4607,3 +4607,4 @@
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"All the musicians will be free"}
