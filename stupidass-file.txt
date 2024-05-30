@@ -4596,3 +4596,4 @@
 {"quote":"Believe in your flyness...conquer your shyness."}
 {"quote":"Pulling up in the may bike"}
 {"quote":"Decentralize"}
+{"quote":"Empathy is the glue"}
