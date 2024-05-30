@@ -4610,3 +4610,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
