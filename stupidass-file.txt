@@ -4620,3 +4620,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
