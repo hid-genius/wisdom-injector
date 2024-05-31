@@ -4619,3 +4619,4 @@
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"We will heal. We will cure."}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"I don't expect to be understood at all."}
