@@ -4625,3 +4625,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I still think I am the greatest."}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
+{"quote":"Pulling up in the may bike"}
