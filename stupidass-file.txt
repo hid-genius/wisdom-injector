@@ -4655,3 +4655,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"Buy property"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
