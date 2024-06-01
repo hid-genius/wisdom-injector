@@ -4649,3 +4649,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"Style is genderless"}
