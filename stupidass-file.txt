@@ -4669,3 +4669,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"George Bush doesn't care about black people"}
+{"quote":"I make awesome decisions in bike stores!!!"}
