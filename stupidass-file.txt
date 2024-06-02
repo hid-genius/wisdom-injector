@@ -4683,3 +4683,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don't appreciate the moment until it's passed."}
+{"quote":"My memories are from the future"}
