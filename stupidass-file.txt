@@ -4689,3 +4689,4 @@
 {"quote":"Empathy is the glue"}
 {"quote":"Distraction is the enemy of vision"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
+{"quote":"The thought police want to suppress freedom of thought"}
