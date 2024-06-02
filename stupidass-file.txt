@@ -4686,3 +4686,4 @@
 {"quote":"My memories are from the future"}
 {"quote":"Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
+{"quote":"Empathy is the glue"}
