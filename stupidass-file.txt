@@ -4708,3 +4708,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"People always tell you 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be awesome! Be awesome!"}
+{"quote":"We will cure hunger"}
