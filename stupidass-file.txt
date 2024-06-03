@@ -4693,3 +4693,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"Buy property"}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
+{"quote":"We will cure hunger"}
