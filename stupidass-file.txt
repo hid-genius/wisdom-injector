@@ -4729,3 +4729,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
+{"quote":"I love sleep; it's my favorite."}
