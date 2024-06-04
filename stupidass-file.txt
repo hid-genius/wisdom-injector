@@ -4732,3 +4732,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"Decentralize"}
