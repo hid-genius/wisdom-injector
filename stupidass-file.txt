@@ -4714,3 +4714,4 @@
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
 {"quote":"Artists are founders"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
