@@ -4731,3 +4731,4 @@
 {"quote":"I'll say things that are serious and put them in a joke form so people can enjoy them. We laugh to keep from crying."}
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
