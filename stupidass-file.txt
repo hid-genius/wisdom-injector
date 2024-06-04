@@ -4734,3 +4734,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Decentralize"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"The media tries to kill our heroes one at a time"}
