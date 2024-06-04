@@ -4736,3 +4736,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
+{"quote":"I am one of the most famous people on the planet"}
