@@ -4756,3 +4756,4 @@
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"2024"}
 {"quote":"There's so many lonely emojis man"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
