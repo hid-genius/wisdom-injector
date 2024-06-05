@@ -4752,3 +4752,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
+{"quote":"Fur pillows are hard to actually sleep on"}
