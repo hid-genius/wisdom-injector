@@ -4747,3 +4747,4 @@
 {"quote":"I'm nice at ping pong"}
 {"quote":"Only free thinkers"}
 {"quote":"All the musicians will be free"}
+{"quote":"We will change the paradigm"}
