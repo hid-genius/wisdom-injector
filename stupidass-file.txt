@@ -4760,3 +4760,4 @@
 {"quote":"We've gotten comfortable with not having what we deserve"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"Let's be like water"}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
