@@ -4750,3 +4750,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
