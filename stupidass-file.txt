@@ -4762,3 +4762,4 @@
 {"quote":"Let's be like water"}
 {"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
 {"quote":"I'm the best"}
+{"quote":"Who made up the term major label in the first place???"}
