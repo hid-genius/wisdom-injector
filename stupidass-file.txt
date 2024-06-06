@@ -4764,3 +4764,4 @@
 {"quote":"I'm the best"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"Decentralize"}
+{"quote":"All you have to be is yourself"}
