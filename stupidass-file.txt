@@ -4801,3 +4801,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Who made up the term major label in the first place???"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"We will cure hunger"}
