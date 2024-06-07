@@ -4797,3 +4797,4 @@
 {"quote":"Artists are founders"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
+{"quote":"We will be recognized"}
