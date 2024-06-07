@@ -4794,3 +4794,4 @@
 {"quote":"Only free thinkers"}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"Artists are founders"}
