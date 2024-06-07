@@ -4803,3 +4803,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"We will cure hunger"}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
