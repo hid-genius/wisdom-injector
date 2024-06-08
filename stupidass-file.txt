@@ -4814,3 +4814,4 @@
 {"quote":"I wish I had a friend like me"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"One day I'm gon' marry a porn star"}
+{"quote":"All the musicians will be free"}
