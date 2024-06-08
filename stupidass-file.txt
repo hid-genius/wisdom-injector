@@ -4829,3 +4829,4 @@
 {"quote":"I don't expect to be understood at all."}
 {"quote":"I give up drinking every week"}
 {"quote":"The world is our office"}
+{"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
