@@ -4833,3 +4833,4 @@
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"People only get jealous when they care."}
