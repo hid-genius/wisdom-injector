@@ -4819,3 +4819,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"The world is our office"}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"Decentralize"}
