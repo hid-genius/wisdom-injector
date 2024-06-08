@@ -4811,3 +4811,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"We have to evolve"}
+{"quote":"I wish I had a friend like me"}
