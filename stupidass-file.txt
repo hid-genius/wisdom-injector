@@ -4817,3 +4817,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"I am running for President of the United States"}
+{"quote":"The world is our office"}
