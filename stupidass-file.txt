@@ -4823,3 +4823,4 @@
 {"quote":"I am the head of Adidas. I will bring Adidas and Puma back together and bring me and jay back together"}
 {"quote":"I'm nice at ping pong"}
 {"quote":"Truth is my goal. Controversy is my gym. I'll do a hundred reps of controversy for a 6 pack of truth"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
