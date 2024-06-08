@@ -4827,3 +4827,4 @@
 {"quote":"You basically can say anything to someone on an email or text as long as you put LOL at the end."}
 {"quote":"I really love my Tesla. I'm in the future. Thank you Elon."}
 {"quote":"I don't expect to be understood at all."}
+{"quote":"I give up drinking every week"}
