@@ -4849,3 +4849,4 @@
 {"quote":"Sometimes you have to get rid of everything"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"There's so many lonely emojis man"}
+{"quote":"We came into a broken world. And we're the cleanup crew."}
