@@ -4835,3 +4835,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"People only get jealous when they care."}
 {"quote":"We're going to move the entire music industry into the 21st Century"}
+{"quote":"People only get jealous when they care."}
