@@ -4869,3 +4869,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Winning is the only option"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
+{"quote":"For me giving up is way harder than trying."}
