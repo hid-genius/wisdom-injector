@@ -4874,3 +4874,4 @@
 {"quote":"I make awesome decisions in bike stores!!!"}
 {"quote":"I am running for President of the United States"}
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
+{"quote":"I'm a creative genius"}
