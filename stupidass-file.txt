@@ -4864,3 +4864,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"We as a people will heal. We will insure the well being of each other"}
 {"quote":"Manga all day"}
+{"quote":"Artists are founders"}
