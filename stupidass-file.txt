@@ -4871,3 +4871,4 @@
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"I make awesome decisions in bike stores!!!"}
