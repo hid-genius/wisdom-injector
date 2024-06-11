@@ -4896,3 +4896,4 @@
 {"quote":"I'm the best"}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I'm giving all Good music artists back the 50% share I have of their masters"}
+{"quote":"Buy property"}
