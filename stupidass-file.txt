@@ -4882,3 +4882,4 @@
 {"quote":"We all self-conscious. I'm just the first to admit it."}
 {"quote":"There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness"}
 {"quote":"My greatest award is what I'm about to do."}
+{"quote":"Everything you do in life stems from either fear or love"}
