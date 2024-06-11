@@ -4886,3 +4886,4 @@
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"My mama was a' English teacher. I know how to use correct English but sometimes I just don't feel like it aaaand I ain't got to"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"Style is genderless"}
