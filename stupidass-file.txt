@@ -4893,3 +4893,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"We will heal. We will cure."}
 {"quote":"The world is our family"}
+{"quote":"I'm the best"}
