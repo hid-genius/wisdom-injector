@@ -4891,3 +4891,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"Everything you do in life stems from either fear or love"}
+{"quote":"We will heal. We will cure."}
