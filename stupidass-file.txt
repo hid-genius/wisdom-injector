@@ -4925,3 +4925,4 @@
 {"quote":"Culture is the most powerful force in humanity under God"}
 {"quote":"All you have to be is yourself"}
 {"quote":"Speak God's truth to power"}
+{"quote":"We all self-conscious. I'm just the first to admit it."}
