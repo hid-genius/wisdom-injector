@@ -4912,3 +4912,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI"}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
+{"quote":"Tweeting is legal and also therapeutic"}
