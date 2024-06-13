@@ -4941,3 +4941,4 @@
 {"quote":"I am Warhol. I am the No. 1 most impactful artist of our generation. I am Shakespeare in the flesh."}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"I feel like me and Taylor might still have sex"}
+{"quote":"I'd like to meet with Tim Cook. I got some ideas"}
