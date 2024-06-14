@@ -4966,3 +4966,4 @@
 {"quote":"The world is our family"}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"I'm a creative genius"}
+{"quote":"We have to evolve"}
