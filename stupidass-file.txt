@@ -4964,3 +4964,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Burn that excel spread sheet"}
 {"quote":"The world is our family"}
+{"quote":"So many of us need so much less than we have especially when so many of us are in need"}
