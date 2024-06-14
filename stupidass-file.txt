@@ -4958,3 +4958,4 @@
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"We will be recognized"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
