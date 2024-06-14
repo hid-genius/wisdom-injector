@@ -4959,3 +4959,4 @@
 {"quote":"We will be recognized"}
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"I wish I had a friend like me"}
