@@ -4970,3 +4970,4 @@
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
+{"quote":"We are here to complete the revolution. We are building the future"}
