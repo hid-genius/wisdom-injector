@@ -4957,3 +4957,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"George Bush doesn't care about black people"}
 {"quote":"We will be recognized"}
+{"quote":"For me giving up is way harder than trying."}
