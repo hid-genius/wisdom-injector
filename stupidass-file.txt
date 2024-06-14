@@ -4967,3 +4967,4 @@
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"I'm a creative genius"}
 {"quote":"We have to evolve"}
+{"quote":"I feel like I'm too busy writing history to read it."}
