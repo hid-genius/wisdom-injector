@@ -4952,3 +4952,4 @@
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"2024"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Style is genderless"}
