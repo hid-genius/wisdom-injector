@@ -4954,3 +4954,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"Style is genderless"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
+{"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
