@@ -4982,3 +4982,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"So many of us need so much less than we have especially when so many of us are in need"}
 {"quote":"I'm the best"}
+{"quote":"The world is our office"}
