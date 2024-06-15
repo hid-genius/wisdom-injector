@@ -4993,3 +4993,4 @@
 {"quote":"Let's be like water"}
 {"quote":"Style is genderless"}
 {"quote":"Style is genderless"}
+{"quote":"There's so many lonely emojis man"}
