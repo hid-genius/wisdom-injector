@@ -5005,3 +5005,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"I am running for President of the United States"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
