@@ -5001,3 +5001,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"I am one of the most famous people on the planet"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
+{"quote":"We've gotten comfortable with not having what we deserve"}
