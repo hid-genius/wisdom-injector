@@ -5012,3 +5012,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"The world is our office"}
+{"quote":"Keep squares out yo circle"}
