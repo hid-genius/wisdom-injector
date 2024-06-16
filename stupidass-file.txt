@@ -5007,3 +5007,4 @@
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
 {"quote":"People only get jealous when they care."}
+{"quote":"Keep squares out yo circle"}
