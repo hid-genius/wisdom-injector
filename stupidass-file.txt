@@ -5009,3 +5009,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"Keep squares out yo circle"}
 {"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
+{"quote":"For me giving up is way harder than trying."}
