@@ -5018,3 +5018,4 @@
 {"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
 {"quote":"I need an army of angels to cover me while I pull this sword out of the stone"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"I'm nice at ping pong"}
