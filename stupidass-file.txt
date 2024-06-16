@@ -5015,3 +5015,4 @@
 {"quote":"Keep squares out yo circle"}
 {"quote":"One day I'm gon' marry a porn star"}
 {"quote":"We will cure hunger"}
+{"quote":"Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?"}
