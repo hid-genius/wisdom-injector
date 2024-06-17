@@ -5020,3 +5020,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I'm nice at ping pong"}
 {"quote":"For me giving up is way harder than trying."}
+{"quote":"I give up drinking every week"}
