@@ -5032,3 +5032,4 @@
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"We will heal. We will cure."}
 {"quote":"Keep squares out yo circle"}
+{"quote":"Style is genderless"}
