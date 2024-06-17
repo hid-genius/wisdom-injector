@@ -5022,3 +5022,4 @@
 {"quote":"For me giving up is way harder than trying."}
 {"quote":"I give up drinking every week"}
 {"quote":"The thought police want to suppress freedom of thought"}
+{"quote":"We will be recognized"}
