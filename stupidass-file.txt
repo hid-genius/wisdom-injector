@@ -5027,3 +5027,4 @@
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"Manga all day"}
+{"quote":"For me to say I wasn't a genius I'd just be lying to you and to myself"}
