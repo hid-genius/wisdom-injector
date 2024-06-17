@@ -5024,3 +5024,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"We will be recognized"}
 {"quote":"Sometimes you have to get rid of everything"}
+{"quote":"The media tries to kill our heroes one at a time"}
