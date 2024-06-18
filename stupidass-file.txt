@@ -5050,3 +5050,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
 {"quote":"Winning is the only option"}
+{"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
