@@ -5061,3 +5061,4 @@
 {"quote":"If I don't scream, if I don't say something then no one's going to say anything."}
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I'm a creative genius"}
+{"quote":"All you have to be is yourself"}
