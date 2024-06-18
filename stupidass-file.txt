@@ -5052,3 +5052,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"We all self-conscious. I'm just the first to admit it."}
+{"quote":"We've gotten comfortable with not having what we deserve"}
