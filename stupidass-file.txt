@@ -5044,3 +5044,4 @@
 {"quote":"Keep squares out yo circle"}
 {"quote":"People only get jealous when they care."}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
+{"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
