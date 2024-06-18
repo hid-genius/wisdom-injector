@@ -5062,3 +5062,4 @@
 {"quote":"The thought police want to suppress freedom of thought"}
 {"quote":"I'm a creative genius"}
 {"quote":"All you have to be is yourself"}
+{"quote":"My memories are from the future"}
