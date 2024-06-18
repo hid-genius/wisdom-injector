@@ -5049,3 +5049,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"We will change the paradigm"}
 {"quote":"I've known my mom since I was zero years old. She is quite dope."}
+{"quote":"Winning is the only option"}
