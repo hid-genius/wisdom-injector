@@ -5045,3 +5045,4 @@
 {"quote":"People only get jealous when they care."}
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
