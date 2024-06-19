@@ -5069,3 +5069,4 @@
 {"quote":"Style is genderless"}
 {"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
 {"quote":"Winning is the only option"}
+{"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
