@@ -5072,3 +5072,4 @@
 {"quote":"People say it's enough and I got my point across ... the point isn't across until we cross the point"}
 {"quote":"Artists are founders"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"Life is the ultimate gift"}
