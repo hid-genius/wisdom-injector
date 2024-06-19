@@ -5073,3 +5073,4 @@
 {"quote":"Artists are founders"}
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Life is the ultimate gift"}
+{"quote":"My memories are from the future"}
