@@ -5088,3 +5088,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"There's so many lonely emojis man"}
 {"quote":"The world is our office"}
+{"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
