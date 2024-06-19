@@ -5080,3 +5080,4 @@
 {"quote":"We will be recognized"}
 {"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
+{"quote":"Burn that excel spread sheet"}
