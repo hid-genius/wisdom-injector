@@ -5091,3 +5091,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"The world needs more Joy... this idea is super fresh"}
+{"quote":"Style is genderless"}
