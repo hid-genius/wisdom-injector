@@ -5104,3 +5104,4 @@
 {"quote":"Just stop lying about shit. Just stop lying."}
 {"quote":"Speak God's truth to power"}
 {"quote":"We will cure hunger"}
+{"quote":"People only get jealous when they care."}
