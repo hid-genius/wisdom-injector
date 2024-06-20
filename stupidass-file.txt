@@ -5115,3 +5115,4 @@
 {"quote":"The world is our office"}
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"We will change the paradigm"}
+{"quote":"I'm nice at ping pong"}
