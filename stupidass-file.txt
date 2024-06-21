@@ -5116,3 +5116,4 @@
 {"quote":"I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend"}
 {"quote":"We will change the paradigm"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"Tweeting is legal and also therapeutic"}
