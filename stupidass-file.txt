@@ -5117,3 +5117,4 @@
 {"quote":"We will change the paradigm"}
 {"quote":"I'm nice at ping pong"}
 {"quote":"Tweeting is legal and also therapeutic"}
+{"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
