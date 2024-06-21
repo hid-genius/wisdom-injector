@@ -5124,3 +5124,4 @@
 {"quote":"We came into a broken world. And we're the cleanup crew."}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
