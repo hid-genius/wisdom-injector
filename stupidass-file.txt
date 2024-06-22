@@ -5140,3 +5140,4 @@
 {"quote":"There's a crying need for civility across the board. We need to and will come together in the name of Jesus."}
 {"quote":"Only free thinkers"}
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
