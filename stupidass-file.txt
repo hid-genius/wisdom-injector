@@ -5143,3 +5143,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I feel like I'm too busy writing history to read it."}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
+{"quote":"I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory."}
