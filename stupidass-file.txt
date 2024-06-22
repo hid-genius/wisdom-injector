@@ -5155,3 +5155,4 @@
 {"quote":"Life is the ultimate gift"}
 {"quote":"Manga all day"}
 {"quote":"We will change the paradigm"}
+{"quote":"Winning is the only option"}
