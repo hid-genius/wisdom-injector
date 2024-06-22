@@ -5142,3 +5142,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I feel like I'm too busy writing history to read it."}
+{"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
