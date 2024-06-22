@@ -5148,3 +5148,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"}
 {"quote":"I'm nice at ping pong"}
+{"quote":"For me, money is not my definition of success. Inspiring people is a definition of success"}
