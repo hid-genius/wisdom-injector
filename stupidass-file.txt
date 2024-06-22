@@ -5161,3 +5161,4 @@
 {"quote":"I love sleep; it's my favorite."}
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"I wish I had a friend like me"}
+{"quote":"I give up drinking every week"}
