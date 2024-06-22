@@ -5158,3 +5158,4 @@
 {"quote":"Winning is the only option"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"Style is genderless"}
+{"quote":"I love sleep; it's my favorite."}
