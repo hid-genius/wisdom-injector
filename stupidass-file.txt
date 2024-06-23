@@ -5178,3 +5178,4 @@
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
 {"quote":"Pulling up in the may bike"}
+{"quote":"I don't expect to be understood at all."}
