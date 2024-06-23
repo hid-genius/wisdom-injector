@@ -5184,3 +5184,4 @@
 {"quote":"I was just speaking with someone that told me their life story and they used to be homeless."}
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I watch Bladerunner on repeat"}
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
