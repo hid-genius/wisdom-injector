@@ -5186,3 +5186,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"Distraction is the enemy of vision"}
+{"quote":"The thought police want to suppress freedom of thought"}
