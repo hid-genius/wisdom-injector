@@ -5191,3 +5191,4 @@
 {"quote":"I'm on the pursuit of awesomeness, excellence is the bare minimum."}
 {"quote":"2024"}
 {"quote":"I love sleep; it's my favorite."}
+{"quote":"Artists are founders"}
