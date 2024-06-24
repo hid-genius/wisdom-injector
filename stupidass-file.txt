@@ -5207,3 +5207,4 @@
 {"quote":"Trust me ... I won't stop"}
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"The media tries to kill our heroes one at a time"}
+{"quote":"Only free thinkers"}
