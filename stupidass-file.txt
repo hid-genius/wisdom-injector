@@ -5196,3 +5196,4 @@
 {"quote":"I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"We will be recognized"}
+{"quote":"We as a people will heal. We will insure the well being of each other"}
