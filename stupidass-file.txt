@@ -5225,3 +5225,4 @@
 {"quote":"We will heal. We will cure."}
 {"quote":"All you have to be is yourself"}
 {"quote":"I give up drinking every week"}
+{"quote":"The media tries to kill our heroes one at a time"}
