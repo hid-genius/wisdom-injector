@@ -5223,3 +5223,4 @@
 {"quote":"I am running for President of the United States"}
 {"quote":"I feel calm but energized"}
 {"quote":"We will heal. We will cure."}
+{"quote":"All you have to be is yourself"}
