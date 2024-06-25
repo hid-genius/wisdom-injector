@@ -5224,3 +5224,4 @@
 {"quote":"I feel calm but energized"}
 {"quote":"We will heal. We will cure."}
 {"quote":"All you have to be is yourself"}
+{"quote":"I give up drinking every week"}
