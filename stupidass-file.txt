@@ -5213,3 +5213,4 @@
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
 {"quote":"I channel Will Ferrell when I'm at the daddy daughter dances"}
 {"quote":"Life is the ultimate gift"}
+{"quote":"I've known my mom since I was zero years old. She is quite dope."}
