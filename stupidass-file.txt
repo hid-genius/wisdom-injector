@@ -5227,3 +5227,4 @@
 {"quote":"I give up drinking every week"}
 {"quote":"The media tries to kill our heroes one at a time"}
 {"quote":"I don't wanna see no woke tweets or hear no woke raps ... it's show time ... it's a whole different energy right now"}
+{"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
