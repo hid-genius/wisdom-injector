@@ -5221,3 +5221,4 @@
 {"quote":"My mother in law Kris Jenner ... makes the best music playlist"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"I am running for President of the United States"}
+{"quote":"I feel calm but energized"}
