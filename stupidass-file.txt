@@ -5239,3 +5239,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million."}
 {"quote":"I'm a creative genius"}
+{"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
