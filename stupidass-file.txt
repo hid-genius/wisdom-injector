@@ -5241,3 +5241,4 @@
 {"quote":"I'm a creative genius"}
 {"quote":"I care. I care about everything. Sometimes not giving a f#%k is caring the most."}
 {"quote":"2024"}
+{"quote":"Who made up the term major label in the first place???"}
