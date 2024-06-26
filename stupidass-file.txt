@@ -5247,3 +5247,4 @@
 {"quote":"Today is the best day ever and tomorrow's going to be even better"}
 {"quote":"We must form a union. We must unify"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"Distraction is the enemy of vision"}
