@@ -5270,3 +5270,4 @@
 {"quote":"I'm the new Moses"}
 {"quote":"If I got any cooler I would freeze to death"}
 {"quote":"My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth"}
+{"quote":"Everything you do in life stems from either fear or love"}
