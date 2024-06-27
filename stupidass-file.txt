@@ -5274,3 +5274,4 @@
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"I'm nice at ping pong"}
 {"quote":"All the musicians will be free"}
+{"quote":"I love sleep; it's my favorite."}
