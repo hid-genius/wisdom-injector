@@ -5281,3 +5281,4 @@
 {"quote":"There are people sleeping in parking lots"}
 {"quote":"Ma$e is one of my favorite rappers and I based a lot of my flows off of him"}
 {"quote":"If I got any cooler I would freeze to death"}
+{"quote":"I feel like I'm too busy writing history to read it."}
