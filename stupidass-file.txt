@@ -5273,3 +5273,4 @@
 {"quote":"Everything you do in life stems from either fear or love"}
 {"quote":"My greatest pain in life is that I will never be able to see myself perform live."}
 {"quote":"I'm nice at ping pong"}
+{"quote":"All the musicians will be free"}
