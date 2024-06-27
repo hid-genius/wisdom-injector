@@ -5278,3 +5278,4 @@
 {"quote":"We are here to complete the revolution. We are building the future"}
 {"quote":"The world is our office"}
 {"quote":"The world is our office"}
+{"quote":"There are people sleeping in parking lots"}
