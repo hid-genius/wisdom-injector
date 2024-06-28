@@ -5286,3 +5286,4 @@
 {"quote":"Decentralize"}
 {"quote":"I leave my emojis bart Simpson color"}
 {"quote":"Who made up the term major label in the first place???"}
+{"quote":"I watch Bladerunner on repeat"}
