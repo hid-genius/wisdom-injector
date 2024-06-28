@@ -5307,3 +5307,4 @@
 {"quote":"My dad got me a drone for Christmas"}
 {"quote":"Speak God's truth to power"}
 {"quote":"We must and will cure homelessness and hunger. We have the capability as a species"}
+{"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
