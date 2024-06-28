@@ -5289,3 +5289,4 @@
 {"quote":"I watch Bladerunner on repeat"}
 {"quote":"The world needs more Joy... this idea is super fresh"}
 {"quote":"We have to evolve"}
+{"quote":"Winning is the only option"}
