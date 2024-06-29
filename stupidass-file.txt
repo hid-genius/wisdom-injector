@@ -5315,3 +5315,4 @@
 {"quote":"People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try."}
 {"quote":"I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself"}
 {"quote":"You can't look at a glass half full or empty if it's overflowing."}
+{"quote":"Burn that excel spread sheet"}
