@@ -5327,3 +5327,4 @@
 {"quote":"All you have to be is yourself"}
 {"quote":"Only free thinkers"}
 {"quote":"Only free thinkers"}
+{"quote":"Distraction is the enemy of vision"}
