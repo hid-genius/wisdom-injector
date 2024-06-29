@@ -5311,3 +5311,4 @@
 {"quote":"All the musicians will be free"}
 {"quote":"Pulling up in the may bike"}
 {"quote":"Manga all day"}
+{"quote":"Speak God's truth to power"}
