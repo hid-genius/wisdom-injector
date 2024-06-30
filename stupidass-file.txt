@@ -5335,3 +5335,4 @@
 {"quote":"Burn that excel spread sheet"}
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Fur pillows are hard to actually sleep on"}
+{"quote":"Decentralize"}
