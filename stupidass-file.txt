@@ -5336,3 +5336,4 @@
 {"quote":"I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates"}
 {"quote":"Fur pillows are hard to actually sleep on"}
 {"quote":"Decentralize"}
+{"quote":"I want the world to be better! All I want is positive! All I want is dopeness!"}
