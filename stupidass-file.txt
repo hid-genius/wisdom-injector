@@ -5332,3 +5332,4 @@
 {"quote":"Keep your nose out the sky, keep your heart to god, and keep your face to the rising sun."}
 {"quote":"People tried to talk me out of running for President. Never let weak controlling people kill your spirit"}
 {"quote":"I give up drinking every week"}
+{"quote":"Burn that excel spread sheet"}
